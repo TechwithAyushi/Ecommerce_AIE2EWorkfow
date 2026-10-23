@@ -1,0 +1,47 @@
+- generic [ref=e360]:
+  - generic [ref=e361]:
+    - banner [ref=e362]:
+      - generic [ref=e363]:
+        - generic [ref=e364]:
+          - button "Open Menu" [ref=e365] [cursor=pointer]
+          - img "Open Menu" [ref=e366]
+        - generic [ref=e367]: Swag Labs
+        - button "Cart, 1 items" [ref=e370]:
+          - generic [ref=e371]: "1"
+      - generic [ref=e372]: "Checkout: Overview"
+    - main [ref=e374]:
+      - generic [ref=e375]:
+        - generic [ref=e376]:
+          - generic [ref=e377]: QTY
+          - generic [ref=e378]: Description
+          - generic [ref=e379]:
+            - generic [ref=e380]: "1"
+            - generic [ref=e381]:
+              - button "View details for Sauce Labs Backpack" [ref=e382] [cursor=pointer]:
+                - generic [ref=e383]: Sauce Labs Backpack
+              - generic [ref=e384]: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+              - generic [ref=e385]: $29.99
+        - generic [ref=e387]:
+          - generic [ref=e388]: "Payment Information:"
+          - generic [ref=e389]: "SauceCard #31337"
+          - generic [ref=e390]: "Shipping Information:"
+          - generic [ref=e391]: Free Pony Express Delivery!
+          - generic [ref=e392]: Price Total
+          - generic [ref=e393]: "Item total: $29.99"
+          - generic [ref=e394]: "Tax: $2.40"
+          - generic [ref=e395]: "Total: $32.39"
+          - generic [ref=e396]:
+            - button "Cancel" [ref=e397] [cursor=pointer]
+            - button "Finish" [ref=e398] [cursor=pointer]
+  - contentinfo [ref=e399]:
+    - list [ref=e400]:
+      - listitem [ref=e401]:
+        - link "X" [ref=e402] [cursor=pointer]:
+          - /url: https://x.com/saucelabs
+      - listitem [ref=e403]:
+        - link "Facebook" [ref=e404] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=e405]:
+        - link "LinkedIn" [ref=e406] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=e407]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy

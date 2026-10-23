@@ -1,0 +1,263 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e3]:
+    - group [ref=f3e4]
+    - group [ref=f3e6]:
+      - generic [ref=f3e7]:
+        - text: By using this site you agree to the use of cookies for analytics, personalized content, and ads.
+        - link "Learn more about third party cookies" [ref=f3e8] [cursor=pointer]:
+          - /url: https://www.bing.com/ck/a?!&&p=f8fe3abf07f5fb5c17a9f25ed4a60a077f671c753a6e1740eb56282ab46003d7JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9ha2EubXMvM3JkcGFydHljb29raWVz&ntb=1
+        - text: "|"
+        - link "Microsoft Privacy Policy" [ref=f3e9] [cursor=pointer]:
+          - /url: https://www.bing.com/ck/a?!&&p=2b2e1d5b3ba684b8d0dbb8afbe9d336c4014d242639dd9786cee7d16ec7edd17JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9nby5taWNyb3NvZnQuY29tL2Z3bGluay8_bGlua2lkPTUyMTgzOQ&ntb=1
+    - group:
+      - link "Close" [ref=f3e10] [cursor=pointer]:
+        - /url: "javascript:"
+  - banner [ref=f3e11]:
+    - button "Skip to content" [ref=f3e12] [cursor=pointer]
+    - button "Accessibility Feedback" [ref=f3e15] [cursor=pointer]
+    - generic [ref=f3e18]:
+      - link [ref=f3e19] [cursor=pointer]:
+        - /url: /?FORM=Z9FD1
+        - heading "Back to Bing search" [level=1] [ref=f3e20]
+      - search [ref=f3e21]:
+        - button "Search" [ref=f3e24] [cursor=pointer]
+        - searchbox "Enter your search here - Search suggestions will show as you type" [ref=f3e25]: "\"saucedemo.com\" API endpoint REST API documentation"
+        - generic [ref=f3e26] [cursor=pointer]
+        - button "Search using an image" [ref=f3e31] [cursor=pointer]
+    - complementary "Account Rewards and Preferences" [ref=f3e33]:
+      - button "Microsoft Rewards" [ref=f3e34] [cursor=pointer]:
+        - generic [ref=f3e35]: Rewards
+      - link "Sign in" [ref=f3e51] [cursor=pointer]:
+        - /url: javascript:void(0)
+    - navigation "Search Filter" [ref=f3e53]:
+      - list [ref=f3e54]:
+        - listitem [ref=f3e55]:
+          - link "All" [ref=f3e56] [cursor=pointer]:
+            - /url: /?scope=web&FORM=HDRSC1
+        - listitem [ref=f3e57]:
+          - link "Web" [ref=f3e58] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=cb95d4208075dab4d58ea96e79be0eacb66a52d68ce54235934738e2c0f1cb90JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1L3NlYXJjaD9xPSUyMnNhdWNlZGVtby5jb20lMjIrQVBJK2VuZHBvaW50K1JFU1QrQVBJK2RvY3VtZW50YXRpb24md2Vic2NwPTEmRk9STT1IRFJXU0M&ntb=1
+        - listitem [ref=f3e59]:
+          - link "AI Mode" [ref=f3e60] [cursor=pointer]:
+            - /url: /copilotsearch?q=%22saucedemo.com%22+API+endpoint+REST+API+documentation&FORM=CSSCOP
+        - listitem [ref=f3e63]:
+          - link "Images" [ref=f3e64] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=47fd28d24cf97199a650fc483e321cd6ff6fb59f69bce42c6bd0278e26ad6228JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1L2ltYWdlcy9zZWFyY2g_cT0lMjJzYXVjZWRlbW8uY29tJTIyK0FQSStlbmRwb2ludCtSRVNUK0FQSStkb2N1bWVudGF0aW9uJkZPUk09SERSU0Mz&ntb=1
+        - listitem [ref=f3e65]:
+          - link "Videos" [ref=f3e66] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=676abb52e4dc5cfa0694284ec7f6f405bd29f892e27edd2f65225dcf4f682ef3JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1L3ZpZGVvcy9zZWFyY2g_cT0lMjJzYXVjZWRlbW8uY29tJTIyK0FQSStlbmRwb2ludCtSRVNUK0FQSStkb2N1bWVudGF0aW9uJkZPUk09SERSU0M0&ntb=1
+        - listitem [ref=f3e67]:
+          - link "Maps" [ref=f3e68] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=f6d2c9df461e3545a47b925580d1f079fe8a6ce9cf8b36559c537f01e7c1da6bJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1L21hcHM_cT0lMjJzYXVjZWRlbW8uY29tJTIyK0FQSStlbmRwb2ludCtSRVNUK0FQSStkb2N1bWVudGF0aW9uJkZPUk09SERSU0M2&ntb=1
+        - listitem [ref=f3e69]:
+          - link "News" [ref=f3e70] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=6ba6c02ad5dc2dea26dfdebd80c4588992ad016bd1c6691fcd934bffa5c66a10JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1L25ld3Mvc2VhcmNoP3E9JTIyc2F1Y2VkZW1vLmNvbSUyMitBUEkrZW5kcG9pbnQrUkVTVCtBUEkrZG9jdW1lbnRhdGlvbiZGT1JNPUhEUlNDNw&ntb=1
+        - listitem [ref=f3e71]:
+          - link "Shopping" [ref=f3e72] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=15180667cbf25fdb9db077d003b3c826d908ff661f52c62340b7444465cabdd3JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1L3Nob3AvdG9waWNzP3E9JTIyc2F1Y2VkZW1vLmNvbSUyMitBUEkrZW5kcG9pbnQrUkVTVCtBUEkrZG9jdW1lbnRhdGlvbiZGT1JNPVNIT1BUQg&ntb=1
+        - listitem [ref=f3e73]:
+          - button [ref=f3e74] [cursor=pointer]
+  - main "Search Results" [ref=f3e79]:
+    - generic [ref=f3e81]:
+      - generic [aria-hidden] [ref=f3e82]:
+        - generic [ref=f3e83] [cursor=pointer]
+        - generic [ref=f3e86] [cursor=pointer]
+        - generic [ref=f3e88] [cursor=pointer]
+      - text: About 122,000 results
+    - generic [ref=f3e90]:
+      - list [ref=f3e91]:
+        - listitem [ref=f3e92]:
+          - list [ref=f3e93]:
+            - listitem [ref=f3e94]:
+              - generic [ref=f3e95]:
+                - generic [ref=f3e96] [cursor=pointer]:
+                  - generic [ref=f3e97]: SmartBear Software
+                  - generic [ref=f3e101]:
+                    - generic [ref=f3e102]: https://smartbear.com
+                    - button [ref=f3e103]:
+                      - img "About our ads" [ref=f3e105]
+                - heading [level=2] [ref=f3e106]:
+                  - link "Rest Api Tool | Mock REST, SOAP, & GraphQL" [ref=f3e107] [cursor=pointer]:
+                    - /url: https://www.bing.com/aclk?ld=e8TLHHzCCVH7oSeUZZXGoknjVUCUw1FLwsQkypIEXnfSkYkwtJfitckB9WzWQ3IzipaQ-CX4ovv_CBzNKfuO5V_f-ydq3Ve-6H84zLF5ssgypsw90Hjk1ghjuDKc-zKISaodioWNON76RH2FTkP-dP8wZID8btaTHo29tF7HUiwAm-fPXTk6oEKyRd9C7zVxPz-mFS8DGtuw2JtidERG8Gg0-fiww&u=aHR0cHMlM2ElMmYlMmZzbWFydGJlYXIuY29tJTJmcHJvZHVjdCUyZnJlYWR5LWFwaSUyZmFwaS1mdW5jdGlvbmFsLXRlc3RpbmclMmYlM2Z1dG1fc291cmNlJTNkYmluZy1wYWlkJTI2dXRtX21lZGl1bSUzZHBwY2IlMjZ1dG1fY2FtcGFpZ24lM2RCJTJiLSUyYlJlYWR5QVBJJTJiLSUyYk5BJTJiLSUyYk5CJTI2dXRtX3Rlcm0lM2RyZXN0JTI1MjBBUEklMjUyMHRvb2wlMjZ1dG1fY29udGVudCUzZHAlMjZnY2xpZCUzZDE4ZjNmYTE1NDExNTExMmVhZDYxOTBjZjM3MzdiYjUyJTI2Z2Nsc3JjJTNkM3AuZHMlMjZtc2Nsa2lkJTNkMThmM2ZhMTU0MTE1MTEyZWFkNjE5MGNmMzczN2JiNTI&rlid=18f3fa154115112ead6190cf3737bb52&ntb=1
+                - generic [ref=f3e109]:
+                  - generic [ref=f3e110]: Sponsored
+                  - text: Our protocol API testing covers workflows from simple calls to complex data exchanges. ReadyAPI streamlines testing with automation, easy validation, & powerful reporting tools.
+                - generic [ref=f3e113]:
+                  - list [ref=f3e114]:
+                    - listitem [ref=f3e115]:
+                      - generic [ref=f3e116] [cursor=pointer]:
+                        - heading [level=3] [ref=f3e118]:
+                          - link "Download" [ref=f3e119]:
+                            - /url: https://www.bing.com/aclk?ld=e8woSS9kTS2HrJ4e8Sq5Q9xzVUCUzR2doMoOEpcoH4y4Zm7WJc0pHlz5idNkgqGa6I7v6B73gVHZnrlX2lVzRZGuaeSVqkgv93BMW_VBhAmXseKD5lh97Kio_9I40SVmhvMEomvIMlFX_zLR-1Q_QEhi9m_T0Nxg5vmF6ewjRlpr16KfbRG_c6fwO6K1xzA_nHRipBf1HKRgdL7bJf3xVusBgMbQjn5HsOPKn_j7dlhg2eAgHi&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4Mzg2MjMyMjE2OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTA3MjQxODg1MSUyNmRzX2FfY2lkJTNkODI1NDIzMzc1NSUyNmRzX2FfY2FpZCUzZDIzOTg3ODUzNzYyJTI2ZHNfYV9hZ2lkJTNkMTk4MzM4MTc1MzM1JTI2ZHNfYV9saWQlM2Rrd2QtMTQwNDI3NTEwNjM5MyUyNiUyNmRzX2VfYWRpZCUzZDg0MDQ0MzU2MTg2MTc2JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtODQwNDUyNTYwMDU2ODIlM2Fsb2MtMzIlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnN1cHBvcnQuc21hcnRiZWFyLmNvbSUyZnJlYWR5YXBpJTJmZG93bmxvYWRzJTJmJTI2dXRtX3NvdXJjZSUzZGJpbmctcGFpZCUyNnV0bV9tZWRpdW0lM2RwcGNiJTI2dXRtX2NhbXBhaWduJTNkQiUyYi0lMmJSZWFkeUFQSSUyYi0lMmJOQSUyYi0lMmJOQiUyNnV0bV90ZXJtJTNkcmVzdCUyNTIwQVBJJTI1MjB0b29sJTI2dXRtX2NvbnRlbnQlM2RwJTI2Z2NsaWQlM2Q0ODYxMThmNDRhOGQxYWM1Y2E1ZTcyMmUzY2FmOWE0ZCUyNmdjbHNyYyUzZDNwLmRzJTI2bXNjbGtpZCUzZDQ4NjExOGY0NGE4ZDFhYzVjYTVlNzIyZTNjYWY5YTRk&rlid=486118f44a8d1ac5ca5e722e3caf9a4d&ntb=1
+                        - generic [ref=f3e121]: Download readyapi Software from
+                        - generic [ref=f3e122]: smartbear today!
+                    - listitem [ref=f3e123]:
+                      - generic [ref=f3e124] [cursor=pointer]:
+                        - heading [level=3] [ref=f3e126]:
+                          - link "Pricing & Plans" [ref=f3e127]:
+                            - /url: https://www.bing.com/aclk?ld=e8Zxn0bqi6s1z9jG2NE2WWKDVUCUy-Yr9cwSPmTUex1lKvXs6-EQC3AdxRvZTyKXp5oMjZOTmsF99OicajyUq7BUWyNdcLso8jIEJ9MNdZFFHHO6GgxFT8TxoFz18HG5Fjs6Y-BoBWXAJoreWrRG-ki9HqsS23NuXJIz_EfxN4B92yYaMbAjuvTxZZ8KuxPs4FPudE1p3CmnK-Y84zwqLQqHajFA7uXGkv-NYDVVCZO-L2G0cT&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4Mzg2MjMyMjE2OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTA3MjQxODg1MSUyNmRzX2FfY2lkJTNkODI1NDIzMzc1NSUyNmRzX2FfY2FpZCUzZDIzOTg3ODUzNzYyJTI2ZHNfYV9hZ2lkJTNkMTk4MzM4MTc1MzM1JTI2ZHNfYV9saWQlM2Rrd2QtMTQwNDI3NTEwNjM5MyUyNmRzX3hfYWR4aWQlM2Q4MzcwMDAyODIyMjkzOTMyNyUyNmRzX3hfYWR4dHlwZSUzZDElMjZkc19hX2NpZCUzZDgyNTQyMzM3NTUlMjZkc19hX2V4dGlkJTNkMzYyNjI5Nzk2MTQxJTI2ZHNfZV9hZGlkJTNkODQwNDQzNTYxODYxNzYlMjZkc19lX3RhcmdldF9pZCUzZGt3ZC04NDA0NTI1NjAwNTY4MiUzYWxvYy0zMiUyNiUyNmRzX2VfbmV0d29yayUzZG8lMjZkc191cmxfdiUzZDIlMjZkc19kZXN0X3VybCUzZGh0dHBzJTNhJTJmJTJmc21hcnRiZWFyLmNvbSUyZnByb2R1Y3QlMmZyZWFkeS1hcGklMmZwcmljaW5nJTJmJTNmdXRtX3NvdXJjZSUzZGJpbmctcGFpZCUyNnV0bV9tZWRpdW0lM2RwcGNiJTI2dXRtX2NhbXBhaWduJTNkQiUyYi0lMmJSZWFkeUFQSSUyYi0lMmJOQSUyYi0lMmJOQiUyNnV0bV90ZXJtJTNkcmVzdCUyNTIwQVBJJTI1MjB0b29sJTI2dXRtX2NvbnRlbnQlM2RwJTI2Z2NsaWQlM2Q0MjNlMDkyMWYwMTMxNmIzZDU0NjYzZmI4NjMxMmIyZCUyNmdjbHNyYyUzZDNwLmRzJTI2bXNjbGtpZCUzZDQyM2UwOTIxZjAxMzE2YjNkNTQ2NjNmYjg2MzEyYjJkJTI2bXNjbGtpZCUzZDQyM2UwOTIxZjAxMzE2YjNkNTQ2NjNmYjg2MzEyYjJk&rlid=423e0921f01316b3d54663fb86312b2d&ntb=1
+                        - generic [ref=f3e129]: Options for every team size.
+                        - generic [ref=f3e130]: Get 20% off when billed annually.
+                  - list [ref=f3e131]:
+                    - listitem [ref=f3e132]:
+                      - generic [ref=f3e133] [cursor=pointer]:
+                        - heading [level=3] [ref=f3e135]:
+                          - link "Download ReadyAPI Today" [ref=f3e136]:
+                            - /url: https://www.bing.com/aclk?ld=e89hDNzT7xOBb4cK5AWx6TuzVUCUzo1eQHmpDStLXXwgxCMnhHtvoHhC5reWHR-gFh6gLzH32loZAP-jIwikBs2LRT6k51Q7EwvS9CB_hdqtSGiZecAqHbb3XcCmGXdaqLBYz4mNae4xVB9Uij8S4DsyexkHmdVZGZQ77YW5e6S7rszpSsX8qYt__Nh9vOthJuFKWJgJCnktdLmcJc6FxaPmwfeWU5ZZsbpSxD8lvqGKNOT-3y&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4Mzg2MjMyMjE2OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTA3MjQxODg1MSUyNmRzX2FfY2lkJTNkODI1NDIzMzc1NSUyNmRzX2FfY2FpZCUzZDIzOTg3ODUzNzYyJTI2ZHNfYV9hZ2lkJTNkMTk4MzM4MTc1MzM1JTI2ZHNfYV9saWQlM2Rrd2QtMTQwNDI3NTEwNjM5MyUyNiUyNmRzX2VfYWRpZCUzZDg0MDQ0MzU2MTg2MTc2JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtODQwNDUyNTYwMDU2ODIlM2Fsb2MtMzIlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnNtYXJ0YmVhci5jb20lMmZwcGMlMmZyZWFkeS1hcGklMmZzb2FwdWklMjZ1dG1fc291cmNlJTNkYmluZy1wYWlkJTI2dXRtX21lZGl1bSUzZHBwY2IlMjZ1dG1fY2FtcGFpZ24lM2RCJTJiLSUyYlJlYWR5QVBJJTJiLSUyYk5BJTJiLSUyYk5CJTI2dXRtX3Rlcm0lM2RyZXN0JTI1MjBBUEklMjUyMHRvb2wlMjZ1dG1fY29udGVudCUzZHAlMjZnY2xpZCUzZDY1NGRjNjMzMjg5YjE3MTBjMTI3YWNlOTVlYjlmYzdhJTI2Z2Nsc3JjJTNkM3AuZHMlMjZtc2Nsa2lkJTNkNjU0ZGM2MzMyODliMTcxMGMxMjdhY2U5NWViOWZjN2E&rlid=654dc633289b1710c127ace95eb9fc7a&ntb=1
+                        - generic [ref=f3e138]: Learn More About Readyapi And How
+                        - generic [ref=f3e139]: It Works.
+                    - listitem [ref=f3e140]:
+                      - generic [ref=f3e141] [cursor=pointer]:
+                        - heading [level=3] [ref=f3e143]:
+                          - link "API Security Testing" [ref=f3e144]:
+                            - /url: https://www.bing.com/aclk?ld=e8VHrF__RiT3YLqHI1RdexhDVUCUyjqz_0YItauQsLwLEQQLIXr2qpklkeAN8h9eRuv8cyVAV1YFL5VzOrIXOR2Lty0R7bUVnpQkH8-DQVHtQOa9-in8I8i5oa7L6mKhlcr5j6jcjRvcYc4Q6u-4t1Q0dmuDx0tEr23I318NAyRcDwz6a9ppuKj7g1potU2HIB8rY2c_3CfURVIQWKAFcGy-lkKvxw2f6ezaxbdzL2HJet1ONr&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4Mzg2MjMyMjE2OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTA3MjQxODg1MSUyNmRzX2FfY2lkJTNkODI1NDIzMzc1NSUyNmRzX2FfY2FpZCUzZDIzOTg3ODUzNzYyJTI2ZHNfYV9hZ2lkJTNkMTk4MzM4MTc1MzM1JTI2ZHNfYV9saWQlM2Rrd2QtMTQwNDI3NTEwNjM5MyUyNiUyNmRzX2VfYWRpZCUzZDg0MDQ0MzU2MTg2MTc2JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtODQwNDUyNTYwMDU2ODIlM2Fsb2MtMzIlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnNtYXJ0YmVhci5jb20lMmZwcGMlMmZyZWFkeS1hcGklMmZzb2FwdWklM2YlMjZ1dG1fc291cmNlJTNkYmluZy1wYWlkJTI2dXRtX21lZGl1bSUzZHBwY2IlMjZ1dG1fY2FtcGFpZ24lM2RCJTJiLSUyYlJlYWR5QVBJJTJiLSUyYk5BJTJiLSUyYk5CJTI2dXRtX3Rlcm0lM2RyZXN0JTI1MjBBUEklMjUyMHRvb2wlMjZ1dG1fY29udGVudCUzZHAlMjZnY2xpZCUzZDA5MTI4N2E3NWQ4OTFlZjBhM2E3ZWQ3ZDJiYWI2NTAzJTI2Z2Nsc3JjJTNkM3AuZHMlMjZtc2Nsa2lkJTNkMDkxMjg3YTc1ZDg5MWVmMGEzYTdlZDdkMmJhYjY1MDM&rlid=091287a75d891ef0a3a7ed7d2bab6503&ntb=1
+                        - generic [ref=f3e146]: Reduce The Time Spent Time
+                        - generic [ref=f3e147]: Scripting & Setting Up Other API...
+                - link "More results from this site" [ref=f3e149] [cursor=pointer]:
+                  - /url: https://www.bing.com/aclk?ld=e8TLHHzCCVH7oSeUZZXGoknjVUCUw1FLwsQkypIEXnfSkYkwtJfitckB9WzWQ3IzipaQ-CX4ovv_CBzNKfuO5V_f-ydq3Ve-6H84zLF5ssgypsw90Hjk1ghjuDKc-zKISaodioWNON76RH2FTkP-dP8wZID8btaTHo29tF7HUiwAm-fPXTk6oEKyRd9C7zVxPz-mFS8DGtuw2JtidERG8Gg0-fiww&u=aHR0cHMlM2ElMmYlMmZzbWFydGJlYXIuY29tJTJmcHJvZHVjdCUyZnJlYWR5LWFwaSUyZmFwaS1mdW5jdGlvbmFsLXRlc3RpbmclMmYlM2Z1dG1fc291cmNlJTNkYmluZy1wYWlkJTI2dXRtX21lZGl1bSUzZHBwY2IlMjZ1dG1fY2FtcGFpZ24lM2RCJTJiLSUyYlJlYWR5QVBJJTJiLSUyYk5BJTJiLSUyYk5CJTI2dXRtX3Rlcm0lM2RyZXN0JTI1MjBBUEklMjUyMHRvb2wlMjZ1dG1fY29udGVudCUzZHAlMjZnY2xpZCUzZDE4ZjNmYTE1NDExNTExMmVhZDYxOTBjZjM3MzdiYjUyJTI2Z2Nsc3JjJTNkM3AuZHMlMjZtc2Nsa2lkJTNkMThmM2ZhMTU0MTE1MTEyZWFkNjE5MGNmMzczN2JiNTI&rlid=18f3fa154115112ead6190cf3737bb52&ntb=1&ntb=1
+        - listitem [ref=f3e150]:
+          - button "Hide" [ref=f3e155] [cursor=pointer]
+      - list [ref=f3e158]:
+        - listitem [ref=f3e159]:
+          - link "Github" [ref=f3e161] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=d99a8b10c0a46f2447e5fc423e33ded85c2eddc788a3042a648f747a88fd0334JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9naXRodWIuY29tL1N1amFsVGhha2thcjcvc2F1Y2VkZW1vLW1hbnVhbC10ZXN0aW5nLXByb2plY3Q&ntb=1
+            - img "Global web icon" [ref=f3e165]
+            - generic [ref=f3e166]:
+              - generic [ref=f3e167]: Github
+              - generic [ref=f3e168]: https://github.com › saucedemo-manual-testing-project
+          - heading [level=2] [ref=f3e171]:
+            - link "GitHub - SujalThakkar7/saucedemo-manual-testing-project" [ref=f3e172] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=d99a8b10c0a46f2447e5fc423e33ded85c2eddc788a3042a648f747a88fd0334JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9naXRodWIuY29tL1N1amFsVGhha2thcjcvc2F1Y2VkZW1vLW1hbnVhbC10ZXN0aW5nLXByb2plY3Q&ntb=1
+          - paragraph [ref=f3e174]: Contribute to SujalThakkar7/saucedemo-manual-testing-project development by creating an account on GitHub.
+        - listitem [ref=f3e175]:
+          - link "sugarai.com" [ref=f3e177] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=90f84277c59606b7e98e08f413da0cdbdded636e53a219a499147dcb1f36edc6JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9zdXBwb3J0LnN1Z2FyYWkuY29tL2RvY3VtZW50YXRpb24vc3VnYXJfZGV2ZWxvcGVyL3N1Z2FyX2RldmVsb3Blcl9ndWlkZV8xNC4wL2ludGVncmF0aW9uL3dlYl9zZXJ2aWNlcy9yZXN0X2FwaS8&ntb=1
+            - img "Global web icon" [ref=f3e181]
+            - generic [ref=f3e182]:
+              - generic [ref=f3e183]: sugarai.com
+              - generic [ref=f3e184]: https://support.sugarai.com › ... › integration › web_services › rest_api
+          - heading [level=2] [ref=f3e187]:
+            - link "REST API - Sugar Support" [ref=f3e188] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=90f84277c59606b7e98e08f413da0cdbdded636e53a219a499147dcb1f36edc6JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9zdXBwb3J0LnN1Z2FyYWkuY29tL2RvY3VtZW50YXRpb24vc3VnYXJfZGV2ZWxvcGVyL3N1Z2FyX2RldmVsb3Blcl9ndWlkZV8xNC4wL2ludGVncmF0aW9uL3dlYl9zZXJ2aWNlcy9yZXN0X2FwaS8&ntb=1
+          - paragraph [ref=f3e190]: Nov 14, 2024 · REST API Overview v10 - v11.24 API documentation. What Is REST? REST stands for 'Representational State …
+        - listitem [ref=f3e191]:
+          - link "home-assistant.io" [ref=f3e193] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=d88044adfdfe706ab821868b4f4dd2b6a46e73e084f941bf674fcd164a75d315JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9jb250cmlidXRvcnMuaG9tZS1hc3Npc3RhbnQuaW8vY29yZS9pbnRlcm5hbHMvcmVzdC1hcGkv&ntb=1
+            - img "Global web icon" [ref=f3e197]
+            - generic [ref=f3e198]:
+              - generic [ref=f3e199]: home-assistant.io
+              - generic [ref=f3e200]: https://contributors.home-assistant.io › core › internals › rest-api
+          - heading [level=2] [ref=f3e203]:
+            - link "REST API | Home Assistant Contributors" [ref=f3e204] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=d88044adfdfe706ab821868b4f4dd2b6a46e73e084f941bf674fcd164a75d315JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9jb250cmlidXRvcnMuaG9tZS1hc3Npc3RhbnQuaW8vY29yZS9pbnRlcm5hbHMvcmVzdC1hcGkv&ntb=1
+          - paragraph [ref=f3e206]: 6 days ago · REST API The HTTP endpoints under /api/ to read states, call actions, fire events, and render templates, with the …
+        - listitem [ref=f3e207]:
+          - link "Github" [ref=f3e209] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=cd08da39c1d591604ffb8bc3684890d4356234b077016781f307928f866cf5bbJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9naXRodWIuY29tL3NyaWhhcmlzZWx2YWdhbmFwYXRoaS9HZW5haS1Qb3dlcmVkLVFBLUFuYWx5emVyLS90cmVlL21haW4&ntb=1
+            - img "Global web icon" [ref=f3e213]
+            - generic [ref=f3e214]:
+              - generic [ref=f3e215]: Github
+              - generic [ref=f3e216]: https://github.com › srihariselvaganapathi › Genai-Powered-QA-Analyzer...
+          - heading [level=2] [ref=f3e219]:
+            - link "GitHub - srihariselvaganapathi/Genai-Powered-QA-Analyzer-" [ref=f3e220] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=cd08da39c1d591604ffb8bc3684890d4356234b077016781f307928f866cf5bbJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9naXRodWIuY29tL3NyaWhhcmlzZWx2YWdhbmFwYXRoaS9HZW5haS1Qb3dlcmVkLVFBLUFuYWx5emVyLS90cmVlL21haW4&ntb=1
+          - paragraph [ref=f3e222]: Sep 8, 2026 · A FastAPI-based REST API that uses Google Gemini AI to automatically analyze test failure logs and generate Root …
+        - listitem [ref=f3e223]:
+          - link "REST API Tutorial" [ref=f3e225] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=e801b380920643f12d5f0ebe0a52e331e9b6229e4c718768c3420d80014a8086JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9yZXN0ZnVsYXBpLm5ldC9yZXN0LWFwaS1lcnJvci1oYW5kbGluZy8&ntb=1
+            - generic [ref=f3e230]:
+              - generic [ref=f3e231]: REST API Tutorial
+              - generic [ref=f3e232]: https://restfulapi.net › rest-api-error-handling
+          - heading [level=2] [ref=f3e235]:
+            - 'link "REST API Error Handling: Status Codes and Problem Details" [ref=f3e236] [cursor=pointer]':
+              - /url: https://www.bing.com/ck/a?!&&p=e801b380920643f12d5f0ebe0a52e331e9b6229e4c718768c3420d80014a8086JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9yZXN0ZnVsYXBpLm5ldC9yZXN0LWFwaS1lcnJvci1oYW5kbGluZy8&ntb=1
+          - paragraph [ref=f3e238]: "Oct 1, 2026 · Learn REST API error handling: pick the right status code, use Problem Details, write useful messages, avoid leaks …"
+        - listitem [ref=f3e239]:
+          - link "Home Assistant" [ref=f3e241] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=6577edfb9e06b0c10e2a8e24c1d7478b65480fb7928348f66b5bd5813778d001JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly93d3cuaG9tZS1hc3Npc3RhbnQuaW8vaW50ZWdyYXRpb25zL3Jlc3Qv&ntb=1
+            - img "Global web icon" [ref=f3e245]
+            - generic [ref=f3e246]:
+              - generic [ref=f3e247]: Home Assistant
+              - generic [ref=f3e248]: https://www.home-assistant.io › integrations › rest
+          - heading [level=2] [ref=f3e251]:
+            - link "RESTful - Home Assistant" [ref=f3e252] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=6577edfb9e06b0c10e2a8e24c1d7478b65480fb7928348f66b5bd5813778d001JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly93d3cuaG9tZS1hc3Npc3RhbnQuaW8vaW50ZWdyYXRpb25zL3Jlc3Qv&ntb=1
+          - paragraph [ref=f3e254]: The RESTful integration is consuming a given endpoint which is exposed by a RESTful API of a device, an application, or a web …
+        - listitem [ref=f3e255]:
+          - list [ref=f3e256]:
+            - listitem [ref=f3e257]:
+              - generic [ref=f3e258]:
+                - generic [ref=f3e259] [cursor=pointer]:
+                  - generic [ref=f3e260]: SmartBear Software
+                  - generic [ref=f3e264]:
+                    - generic [ref=f3e265]: https://smartbear.com
+                    - button [ref=f3e266]:
+                      - img "About our ads" [ref=f3e268]
+                - heading [level=2] [ref=f3e269]:
+                  - link "Rest Api Tool | Mock REST, SOAP, & GraphQL" [ref=f3e270] [cursor=pointer]:
+                    - /url: https://www.bing.com/aclk?ld=e83z1T4TSuuu7WOWWFMy3SkTVUCUxKz2Sj6OiHrOjvC99kNF7pAA3jgC6wLrVPXgscIFf_2h_yA19_FVoghOi672N4RH8vERmcRzja59ewj4B_qbXLIJW9eRpd8_IqxRhF0LsEDF0sRuYYDVYXbFyXrreyPfxEHbfFVDYI13rb9mKxJJHcgkxC0UW2zpgCqm6pAmDb94BcRetWDssd-gCMohWM1gA&u=aHR0cHMlM2ElMmYlMmZzbWFydGJlYXIuY29tJTJmcHJvZHVjdCUyZnJlYWR5LWFwaSUyZmFwaS1mdW5jdGlvbmFsLXRlc3RpbmclMmYlM2Z1dG1fc291cmNlJTNkYmluZy1wYWlkJTI2dXRtX21lZGl1bSUzZHBwY2IlMjZ1dG1fY2FtcGFpZ24lM2RCJTJiLSUyYlJlYWR5QVBJJTJiLSUyYk5BJTJiLSUyYk5CJTI2dXRtX3Rlcm0lM2RyZXN0JTI1MjBBUEklMjUyMHRvb2wlMjZ1dG1fY29udGVudCUzZHAlMjZnY2xpZCUzZDQ1ODIyOWZkN2MzOTE0ODNmYjJmNDMyNzBhMWJlNmYxJTI2Z2Nsc3JjJTNkM3AuZHMlMjZtc2Nsa2lkJTNkNDU4MjI5ZmQ3YzM5MTQ4M2ZiMmY0MzI3MGExYmU2ZjE&rlid=458229fd7c391483fb2f43270a1be6f1&ntb=1
+                - generic [ref=f3e271]:
+                  - generic [ref=f3e272]:
+                    - generic [ref=f3e273]: Sponsored
+                    - text: Our protocol API testing covers workflows from simple calls to complex data exchanges. ReadyAPI streamlines testing with automation, easy validation, & powerful reporting tools.
+                  - paragraph [ref=f3e276]: On-Premise Deployment · No Cloud Sync Required · 24/7 Enterprise Support · All-in-One Platform
+                  - group "Popular Links:" [ref=f3e278]:
+                    - strong [ref=f3e279]: "Popular Links:"
+                    - link "Tools" [ref=f3e280] [cursor=pointer]:
+                      - /url: https://www.bing.com/aclk?ld=e8VNuD-S6giN4z4AbEYnKtWDVUCUxHTzyBFkfy3TvxuBFVPHBW_Ne0PqsuIhj2bkCo_Bdj2M2aW6fW0f-sepRz3PyUKW425htK_PH4ULA8ql0fXfIMceIJvxwKd9IyOtbcn6_hEjNGdJykE9OIdJNaeampW0wEQIr6CNoqnGHp1hgN-EnZNuZTLH1x7AZpZPfnjqVOB612Eh-O-QcZRkJzyI-wS_D7vXueK9tt-6gWhpm7VigY&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4Mzg2MjMyMjE2OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTA3MjQxODg1MSUyNmRzX2FfY2lkJTNkODI1NDIzMzc1NSUyNmRzX2FfY2FpZCUzZDIzOTg3ODUzNzYyJTI2ZHNfYV9hZ2lkJTNkMTk4MzM4MTc1MzM1JTI2ZHNfYV9saWQlM2Rrd2QtMTQwNDI3NTEwNjM5MyUyNiUyNmRzX2VfYWRpZCUzZDg0MDQ0MzU2MTg2MTc2JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtODQwNDUyNTYwMDU2ODIlM2Fsb2MtMzIlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnN3YWdnZXIuaW8lMmZ0b29scyUyZiUyNnV0bV9zb3VyY2UlM2RiaW5nLXBhaWQlMjZ1dG1fbWVkaXVtJTNkcHBjYiUyNnV0bV9jYW1wYWlnbiUzZEIlMmItJTJiUmVhZHlBUEklMmItJTJiTkElMmItJTJiTkIlMjZ1dG1fdGVybSUzZHJlc3QlMjUyMEFQSSUyNTIwdG9vbCUyNnV0bV9jb250ZW50JTNkcCUyNmdjbGlkJTNkNjdjODM1MTlkYjczMWZlYWYyMTM1ZmMzYWQ1MThiNWUlMjZnY2xzcmMlM2QzcC5kcyUyNm1zY2xraWQlM2Q2N2M4MzUxOWRiNzMxZmVhZjIxMzVmYzNhZDUxOGI1ZQ&rlid=67c83519db731feaf2135fc3ad518b5e&ntb=1
+                    - text: ·
+                    - link "Webinars" [ref=f3e281] [cursor=pointer]:
+                      - /url: https://www.bing.com/aclk?ld=e8_QLagl5qSqpNWAN840319TVUCUxEMyeAH_XxjnVXIvcmiiEvF97HPj0WJxr37YrBdG_HGgt3ahD_d9IW-rVDdIrcLYptU26GcOBF1aECosLWMg0BP1QqsJuPSp3zaLGhAFhCBB4if02S67napKqOpxEdfjYB2LFGfYsMw9bOzlkbLzkOr3I24Fq7QXW0FgsWmGqn8DB_I_HJDe385SCXH9W0WEMASW2JXIgYOF2etWuNm7dc&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4Mzg2MjMyMjE2OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTA3MjQxODg1MSUyNmRzX2FfY2lkJTNkODI1NDIzMzc1NSUyNmRzX2FfY2FpZCUzZDIzOTg3ODUzNzYyJTI2ZHNfYV9hZ2lkJTNkMTk4MzM4MTc1MzM1JTI2ZHNfYV9saWQlM2Rrd2QtMTQwNDI3NTEwNjM5MyUyNiUyNmRzX2VfYWRpZCUzZDg0MDQ0MzU2MTg2MTc2JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtODQwNDUyNTYwMDU2ODIlM2Fsb2MtMzIlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnNtYXJ0YmVhci5jb20lMmZyZXNvdXJjZXMlMmZ3ZWJpbmFycyUyZiUyNnV0bV9zb3VyY2UlM2RiaW5nLXBhaWQlMjZ1dG1fbWVkaXVtJTNkcHBjYiUyNnV0bV9jYW1wYWlnbiUzZEIlMmItJTJiUmVhZHlBUEklMmItJTJiTkElMmItJTJiTkIlMjZ1dG1fdGVybSUzZHJlc3QlMjUyMEFQSSUyNTIwdG9vbCUyNnV0bV9jb250ZW50JTNkcCUyNmdjbGlkJTNkYjQ2YzViY2ZjOTk2MWMyMzIxNGEzMTE1YmZiNDg2M2ElMjZnY2xzcmMlM2QzcC5kcyUyNm1zY2xraWQlM2RiNDZjNWJjZmM5OTYxYzIzMjE0YTMxMTViZmI0ODYzYQ&rlid=b46c5bcfc9961c23214a3115bfb4863a&ntb=1
+                    - text: ·
+                    - link "Training" [ref=f3e282] [cursor=pointer]:
+                      - /url: https://www.bing.com/aclk?ld=e86enZE8CwGPUc5NSWlF-3KTVUCUz8bT8hkmW4kyBebDhG8AbzoRUBQWr6TSEhbHWW1oDFLsaC69AExgbZHFVp86Ex2Z0L7yj9thKXwiOkkaO4ndFAJhXTb3FPMoeJJMpaL0F9_UURsIMEC_X2zptoIXDbSDBLOF92MNgST5t4N-vLxRWa_OZu78DD7HTvSDoDVrwvPo-nQNYVLo-6elidy0SoLv62nyNXtllKmD1COZAnq6hD&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4Mzg2MjMyMjE2OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTA3MjQxODg1MSUyNmRzX2FfY2lkJTNkODI1NDIzMzc1NSUyNmRzX2FfY2FpZCUzZDIzOTg3ODUzNzYyJTI2ZHNfYV9hZ2lkJTNkMTk4MzM4MTc1MzM1JTI2ZHNfYV9saWQlM2Rrd2QtMTQwNDI3NTEwNjM5MyUyNiUyNmRzX2VfYWRpZCUzZDg0MDQ0MzU2MTg2MTc2JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtODQwNDUyNTYwMDU2ODIlM2Fsb2MtMzIlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnNtYXJ0YmVhci5jb20lMmZhY2FkZW15JTJmcmVhZHlhcGklMmYlMjZ1dG1fc291cmNlJTNkYmluZy1wYWlkJTI2dXRtX21lZGl1bSUzZHBwY2IlMjZ1dG1fY2FtcGFpZ24lM2RCJTJiLSUyYlJlYWR5QVBJJTJiLSUyYk5BJTJiLSUyYk5CJTI2dXRtX3Rlcm0lM2RyZXN0JTI1MjBBUEklMjUyMHRvb2wlMjZ1dG1fY29udGVudCUzZHAlMjZnY2xpZCUzZDRlMjRmNmUxYTk3ZTE5MTlmZWIzOWMzYmRmNWM2NzVhJTI2Z2Nsc3JjJTNkM3AuZHMlMjZtc2Nsa2lkJTNkNGUyNGY2ZTFhOTdlMTkxOWZlYjM5YzNiZGY1YzY3NWE&rlid=4e24f6e1a97e1919feb39c3bdf5c675a&ntb=1
+                    - text: ·
+                    - link "Products" [ref=f3e283] [cursor=pointer]:
+                      - /url: https://www.bing.com/aclk?ld=e8HxPQyXUA54KJVPXXImNZ9DVUCUxNoO7u8nyq2u_9PhCbPVrA8JHes99aGh9RR69hLYM2HMx8yxTDFtjeSWneUw7ewWK7rh89eC160mVHtBt4JTGpCfGGuWZBgUXTZzW8Pyruk08PkKkD7MPpNdm3hk1akqd5H-aNtBPZeDFh02K66MH16fJE_xuiM8zK52vapQ0Ln5cA7PuLn6PGm0wdTTxiTCFEseiinM_VTK55zAQef6RY&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4Mzg2MjMyMjE2OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTA3MjQxODg1MSUyNmRzX2FfY2lkJTNkODI1NDIzMzc1NSUyNmRzX2FfY2FpZCUzZDIzOTg3ODUzNzYyJTI2ZHNfYV9hZ2lkJTNkMTk4MzM4MTc1MzM1JTI2ZHNfYV9saWQlM2Rrd2QtMTQwNDI3NTEwNjM5MyUyNiUyNmRzX2VfYWRpZCUzZDg0MDQ0MzU2MTg2MTc2JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtODQwNDUyNTYwMDU2ODIlM2Fsb2MtMzIlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnNtYXJ0YmVhci5jb20lMmYlMjZ1dG1fc291cmNlJTNkYmluZy1wYWlkJTI2dXRtX21lZGl1bSUzZHBwY2IlMjZ1dG1fY2FtcGFpZ24lM2RCJTJiLSUyYlJlYWR5QVBJJTJiLSUyYk5BJTJiLSUyYk5CJTI2dXRtX3Rlcm0lM2RyZXN0JTI1MjBBUEklMjUyMHRvb2wlMjZ1dG1fY29udGVudCUzZHAlMjZnY2xpZCUzZDhhMWNkYjE1Nzc2NzEzYWIyY2VkYjFjZjAxNDUxYjA2JTI2Z2Nsc3JjJTNkM3AuZHMlMjZtc2Nsa2lkJTNkOGExY2RiMTU3NzY3MTNhYjJjZWRiMWNmMDE0NTFiMDY&rlid=8a1cdb15776713ab2cedb1cf01451b06&ntb=1
+                - generic [ref=f3e284]:
+                  - list [ref=f3e285]:
+                    - listitem [ref=f3e286]:
+                      - link "Download" [ref=f3e288] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e8Esmbweowywro9ZG3CF_1NDVUCUz3rw8_kCbU9hBFgjF_9Pehjd1EX1LgehU7Uj9VoCJJvtO4xBg86eRIQLxm5z0eE4Skfanwj9lnY49QO46FceDi_Zr1c8hpqt1dApDaCl7P5t_8OLRXhBsbvan2spv8c7KUOu5nB-8OWQyNODqp3CmCLt0P7JdJfq2W31ryMw3TqYwIVaBuEDXO_jDnVqjKh8TSCpxPCFEF7zBE87IPvdSC&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4Mzg2MjMyMjE2OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTA3MjQxODg1MSUyNmRzX2FfY2lkJTNkODI1NDIzMzc1NSUyNmRzX2FfY2FpZCUzZDIzOTg3ODUzNzYyJTI2ZHNfYV9hZ2lkJTNkMTk4MzM4MTc1MzM1JTI2ZHNfYV9saWQlM2Rrd2QtMTQwNDI3NTEwNjM5MyUyNiUyNmRzX2VfYWRpZCUzZDg0MDQ0MzU2MTg2MTc2JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtODQwNDUyNTYwMDU2ODIlM2Fsb2MtMzIlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnN1cHBvcnQuc21hcnRiZWFyLmNvbSUyZnJlYWR5YXBpJTJmZG93bmxvYWRzJTJmJTI2dXRtX3NvdXJjZSUzZGJpbmctcGFpZCUyNnV0bV9tZWRpdW0lM2RwcGNiJTI2dXRtX2NhbXBhaWduJTNkQiUyYi0lMmJSZWFkeUFQSSUyYi0lMmJOQSUyYi0lMmJOQiUyNnV0bV90ZXJtJTNkcmVzdCUyNTIwQVBJJTI1MjB0b29sJTI2dXRtX2NvbnRlbnQlM2RwJTI2Z2NsaWQlM2QzMGQzYzE3ZjJjYzAxOWYxOTIxNWFiYTU1YWUyNGUyNSUyNmdjbHNyYyUzZDNwLmRzJTI2bXNjbGtpZCUzZDMwZDNjMTdmMmNjMDE5ZjE5MjE1YWJhNTVhZTI0ZTI1&rlid=30d3c17f2cc019f19215aba55ae24e25&ntb=1
+                    - listitem [ref=f3e289]:
+                      - link "Pricing & Plans" [ref=f3e291] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e84e0epFVPfJvByolqbWEkEjVUCUzcYSylGGciWaDahpXAogFgsTyza0xb2h8f_0i-zEiw10TpgiVZ-f7GGl-43lu_aqlr7BKnI6JleXnjuWXY5DK7C3INd_JLpBW6amoGQLURaX8HtO89NfupGfv13URj5cJwLmKv4N30YNQCzPcS-aIhUGyXBT4mdVUpPjyIZv4MyV3qwjHorBu9cfQr61Lt-tNoicR3dlMlEPo--ENty-iJ&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4Mzg2MjMyMjE2OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTA3MjQxODg1MSUyNmRzX2FfY2lkJTNkODI1NDIzMzc1NSUyNmRzX2FfY2FpZCUzZDIzOTg3ODUzNzYyJTI2ZHNfYV9hZ2lkJTNkMTk4MzM4MTc1MzM1JTI2ZHNfYV9saWQlM2Rrd2QtMTQwNDI3NTEwNjM5MyUyNmRzX3hfYWR4aWQlM2Q4MzcwMDAyODIyMjkzOTMyNyUyNmRzX3hfYWR4dHlwZSUzZDElMjZkc19hX2NpZCUzZDgyNTQyMzM3NTUlMjZkc19hX2V4dGlkJTNkMzYyNjI5Nzk2MTQxJTI2ZHNfZV9hZGlkJTNkODQwNDQzNTYxODYxNzYlMjZkc19lX3RhcmdldF9pZCUzZGt3ZC04NDA0NTI1NjAwNTY4MiUzYWxvYy0zMiUyNiUyNmRzX2VfbmV0d29yayUzZG8lMjZkc191cmxfdiUzZDIlMjZkc19kZXN0X3VybCUzZGh0dHBzJTNhJTJmJTJmc21hcnRiZWFyLmNvbSUyZnByb2R1Y3QlMmZyZWFkeS1hcGklMmZwcmljaW5nJTJmJTNmdXRtX3NvdXJjZSUzZGJpbmctcGFpZCUyNnV0bV9tZWRpdW0lM2RwcGNiJTI2dXRtX2NhbXBhaWduJTNkQiUyYi0lMmJSZWFkeUFQSSUyYi0lMmJOQSUyYi0lMmJOQiUyNnV0bV90ZXJtJTNkcmVzdCUyNTIwQVBJJTI1MjB0b29sJTI2dXRtX2NvbnRlbnQlM2RwJTI2Z2NsaWQlM2Q5MmRmYzcyNGIxOGIxNWMwMTMyZGFkZmVjN2E5MmEzYiUyNmdjbHNyYyUzZDNwLmRzJTI2bXNjbGtpZCUzZDkyZGZjNzI0YjE4YjE1YzAxMzJkYWRmZWM3YTkyYTNiJTI2bXNjbGtpZCUzZDkyZGZjNzI0YjE4YjE1YzAxMzJkYWRmZWM3YTkyYTNi&rlid=92dfc724b18b15c0132dadfec7a92a3b&ntb=1
+                    - listitem [ref=f3e292]:
+                      - link "API Functional Testing" [ref=f3e294] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e8MLAogyBgMy7aEZmT95h9CTVUCUyJ-ZzCWt4GSnNz5Rz2Ck0kRvHqMCQuFeKt2CNaHf2FD_f-Z37k0ADOeqHcxhcgcoeiZ279nz6u4IUt32uRakbpsap4ELmU51lsU2r0J6m2ALYbY8xm91FkUIFxdKoMYxE6TwXrf8MlJXcXQcsGKfE_uokHhITB-OoQtKNWkq-nzFNFqc4Mo2iMBaGKcRSAg3pdSNNgdcDKbOGteC9nByUV&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4Mzg2MjMyMjE2OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTA3MjQxODg1MSUyNmRzX2FfY2lkJTNkODI1NDIzMzc1NSUyNmRzX2FfY2FpZCUzZDIzOTg3ODUzNzYyJTI2ZHNfYV9hZ2lkJTNkMTk4MzM4MTc1MzM1JTI2ZHNfYV9saWQlM2Rrd2QtMTQwNDI3NTEwNjM5MyUyNiUyNmRzX2VfYWRpZCUzZDg0MDQ0MzU2MTg2MTc2JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtODQwNDUyNTYwMDU2ODIlM2Fsb2MtMzIlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnNtYXJ0YmVhci5jb20lMmZwcm9kdWN0JTJmcmVhZHktYXBpJTJmc29hcHVpJTJmZmVhdHVyZXMlMmZhdXRvbWF0ZWQtYXBpLXRlc3RpbmclMmYlMjZ1dG1fc291cmNlJTNkYmluZy1wYWlkJTI2dXRtX21lZGl1bSUzZHBwY2IlMjZ1dG1fY2FtcGFpZ24lM2RCJTJiLSUyYlJlYWR5QVBJJTJiLSUyYk5BJTJiLSUyYk5CJTI2dXRtX3Rlcm0lM2RyZXN0JTI1MjBBUEklMjUyMHRvb2wlMjZ1dG1fY29udGVudCUzZHAlMjZnY2xpZCUzZDlkNTEwODA2YjEzYTE2OGMxY2YzNjJkY2M3MTg0YTY4JTI2Z2Nsc3JjJTNkM3AuZHMlMjZtc2Nsa2lkJTNkOWQ1MTA4MDZiMTNhMTY4YzFjZjM2MmRjYzcxODRhNjg&rlid=9d510806b13a168c1cf362dcc7184a68&ntb=1
+                  - list [ref=f3e295]:
+                    - listitem [ref=f3e296]:
+                      - link "Download ReadyAPI Today" [ref=f3e298] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e8TBmS9yfsE9Dx03rBLbQdkTVUCUzrdgNq4_ucTUkUno8tR-Ud76HxYSlmEz4H14hqqlludHS1wrg62_6cVSmeH1I3bSClaneZnoBvRJBBRmEw4W4vhGh46ZGDBLPrIjDIXwTll2eqaUkikdc2cZQ88T1ye1nFGYB3YrYv03F1H5OHnRSxhLUseGM1nnT1dCUNpvWiK-eHdervUeyFVvIQ-E_JoNzuXCJTtW3Kim8-LNO6hF0m&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4Mzg2MjMyMjE2OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTA3MjQxODg1MSUyNmRzX2FfY2lkJTNkODI1NDIzMzc1NSUyNmRzX2FfY2FpZCUzZDIzOTg3ODUzNzYyJTI2ZHNfYV9hZ2lkJTNkMTk4MzM4MTc1MzM1JTI2ZHNfYV9saWQlM2Rrd2QtMTQwNDI3NTEwNjM5MyUyNiUyNmRzX2VfYWRpZCUzZDg0MDQ0MzU2MTg2MTc2JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtODQwNDUyNTYwMDU2ODIlM2Fsb2MtMzIlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnNtYXJ0YmVhci5jb20lMmZwcGMlMmZyZWFkeS1hcGklMmZzb2FwdWklMjZ1dG1fc291cmNlJTNkYmluZy1wYWlkJTI2dXRtX21lZGl1bSUzZHBwY2IlMjZ1dG1fY2FtcGFpZ24lM2RCJTJiLSUyYlJlYWR5QVBJJTJiLSUyYk5BJTJiLSUyYk5CJTI2dXRtX3Rlcm0lM2RyZXN0JTI1MjBBUEklMjUyMHRvb2wlMjZ1dG1fY29udGVudCUzZHAlMjZnY2xpZCUzZDczOWIxYjlhYjNiYjFmNTRjYTJjNzE0MGM1OTkxM2E4JTI2Z2Nsc3JjJTNkM3AuZHMlMjZtc2Nsa2lkJTNkNzM5YjFiOWFiM2JiMWY1NGNhMmM3MTQwYzU5OTEzYTg&rlid=739b1b9ab3bb1f54ca2c7140c59913a8&ntb=1
+                    - listitem [ref=f3e299]:
+                      - link "API Security Testing" [ref=f3e301] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e86vmSthZe8EoPzF0R2Xz9AjVUCUxIvvJUIqD2DaSA_ee18k0Wcz6g9tPKluiBSAPIvhaDKsutLkEsAI8vUbY-i5WBTSF4ZYRGEORuPOjJI1FE1pfsJhegNv7n-VNvlU4orStXJlN-EE7rDA1_OeVX-F2FtN7V6-gqFbtMZ9I7iBRQj-YfaPvdmg9m7wigPZEA5CPTF7c5YF1vqtwLsPZQjGAP7fJ3WDpd8HEJQxv5f0HbQGi0&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4Mzg2MjMyMjE2OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTA3MjQxODg1MSUyNmRzX2FfY2lkJTNkODI1NDIzMzc1NSUyNmRzX2FfY2FpZCUzZDIzOTg3ODUzNzYyJTI2ZHNfYV9hZ2lkJTNkMTk4MzM4MTc1MzM1JTI2ZHNfYV9saWQlM2Rrd2QtMTQwNDI3NTEwNjM5MyUyNiUyNmRzX2VfYWRpZCUzZDg0MDQ0MzU2MTg2MTc2JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtODQwNDUyNTYwMDU2ODIlM2Fsb2MtMzIlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnNtYXJ0YmVhci5jb20lMmZwcGMlMmZyZWFkeS1hcGklMmZzb2FwdWklM2YlMjZ1dG1fc291cmNlJTNkYmluZy1wYWlkJTI2dXRtX21lZGl1bSUzZHBwY2IlMjZ1dG1fY2FtcGFpZ24lM2RCJTJiLSUyYlJlYWR5QVBJJTJiLSUyYk5BJTJiLSUyYk5CJTI2dXRtX3Rlcm0lM2RyZXN0JTI1MjBBUEklMjUyMHRvb2wlMjZ1dG1fY29udGVudCUzZHAlMjZnY2xpZCUzZDhmZTc2MWE5YTg3NDE3YTIxM2JjMGI3M2RlNTYxOTk0JTI2Z2Nsc3JjJTNkM3AuZHMlMjZtc2Nsa2lkJTNkOGZlNzYxYTlhODc0MTdhMjEzYmMwYjczZGU1NjE5OTQ&rlid=8fe761a9a87417a213bc0b73de561994&ntb=1
+                    - listitem [ref=f3e302]:
+                      - link "Api Virtualization" [ref=f3e304] [cursor=pointer]:
+                        - /url: https://www.bing.com/aclk?ld=e8hm4sXjyObb44VpUNnotkeDVUCUz4FyUePeGhoenmr0f842ldoVE5EiZsLVPwThRyABUXKQH5EBtrbaCldaXsfavGbhIZIAq1mvPxkPH7OwQmG7moXQDQxLHJz_yDD-Xq2pLGH0jx1LgkWy2CnCpjwKBw6zo2WcGrWJA0l_WyuohJZHTN1051p0fcj_TUTGaIWL5FDTuEsTgYq5hSsm_FHIL8JeLJxzrPoMsFAp50tSvJbGmT&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4Mzg2MjMyMjE2OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTA3MjQxODg1MSUyNmRzX2FfY2lkJTNkODI1NDIzMzc1NSUyNmRzX2FfY2FpZCUzZDIzOTg3ODUzNzYyJTI2ZHNfYV9hZ2lkJTNkMTk4MzM4MTc1MzM1JTI2ZHNfYV9saWQlM2Rrd2QtMTQwNDI3NTEwNjM5MyUyNiUyNmRzX2VfYWRpZCUzZDg0MDQ0MzU2MTg2MTc2JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtODQwNDUyNTYwMDU2ODIlM2Fsb2MtMzIlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnd3dy5zbWFydGJlYXIuY29tJTJmcHJvZHVjdCUyZnJlYWR5LWFwaSUyZmFwaS12aXJ0dWFsaXphdGlvbiUyNnV0bV9zb3VyY2UlM2RiaW5nLXBhaWQlMjZ1dG1fbWVkaXVtJTNkcHBjYiUyNnV0bV9jYW1wYWlnbiUzZEIlMmItJTJiUmVhZHlBUEklMmItJTJiTkElMmItJTJiTkIlMjZ1dG1fdGVybSUzZHJlc3QlMjUyMEFQSSUyNTIwdG9vbCUyNnV0bV9jb250ZW50JTNkcCUyNmdjbGlkJTNkM2M5N2ZhZmIxN2I0MWIyYWFjOWI5MDIxNjE5NjIxYTAlMjZnY2xzcmMlM2QzcC5kcyUyNm1zY2xraWQlM2QzYzk3ZmFmYjE3YjQxYjJhYWM5YjkwMjE2MTk2MjFhMA&rlid=3c97fafb17b41b2aac9b9021619621a0&ntb=1
+        - listitem [ref=f3e305]:
+          - navigation "More results for \"saucedemo.com\" API endpoint REST API documentation":
+            - list:
+              - listitem [ref=f3e306]:
+                - generic "Page 1" [ref=f3e307]: "1"
+              - listitem [ref=f3e308]:
+                - link "Page 2" [ref=f3e309] [cursor=pointer]:
+                  - /url: /search?q=%22saucedemo.com%22+API+endpoint+REST+API+documentation&FPIG=B56E3767F0A64737A921C2EC48711857&first=8&FORM=PERE
+                  - text: "2"
+              - listitem [ref=f3e310]:
+                - link "Page 3" [ref=f3e311] [cursor=pointer]:
+                  - /url: /search?q=%22saucedemo.com%22+API+endpoint+REST+API+documentation&FPIG=B56E3767F0A64737A921C2EC48711857&first=18&FORM=PERE1
+                  - text: "3"
+              - listitem [ref=f3e312]:
+                - link "Next page" [ref=f3e313] [cursor=pointer]:
+                  - /url: /search?q=%22saucedemo.com%22+API+endpoint+REST+API+documentation&FPIG=B56E3767F0A64737A921C2EC48711857&first=8&FORM=PORE
+      - complementary "Additional Results"
+  - contentinfo [ref=f3e314]:
+    - generic [ref=f3e315]:
+      - list:
+        - listitem [ref=f3e316]:
+          - link "Privacy" [ref=f3e317] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=abbd8d499422e5f2fa465acd703771cffb5c82bd0b1b5048691cd4c227d7bdd3JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSWQ9NTIxODM5&ntb=1
+        - listitem [ref=f3e318]:
+          - link "Terms" [ref=f3e319] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=60ae9ab3c43a5f0c6ac484fdd19269178a6cfeca3f79b8b9d51adb048c09b1a4JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSUQ9MjQ2MzM4&ntb=1

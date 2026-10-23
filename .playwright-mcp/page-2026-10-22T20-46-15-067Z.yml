@@ -1,0 +1,351 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - button "Skip to content" [ref=e3] [cursor=pointer]
+    - button "Accessibility Feedback" [ref=e6] [cursor=pointer]
+    - generic [ref=e9]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: /?FORM=Z9FD1
+        - heading "Back to Bing search" [level=1] [ref=e11]
+      - search [ref=e12]:
+        - button "Search" [ref=e15] [cursor=pointer]
+        - searchbox "Enter your search here - Search suggestions will show as you type" [ref=e16]: SauceDemo API documentation public API
+        - generic [ref=e17] [cursor=pointer]
+        - button "Search using an image" [ref=e22] [cursor=pointer]
+    - complementary "Account Rewards and Preferences" [ref=e24]:
+      - button "Microsoft Rewards" [ref=e25] [cursor=pointer]
+      - link "Sign in" [ref=e26] [cursor=pointer]:
+        - /url: javascript:void(0)
+    - navigation "Search Filter" [ref=e28]:
+      - list [ref=e29]:
+        - listitem [ref=e30]:
+          - link "All" [ref=e31] [cursor=pointer]:
+            - /url: /?scope=web&FORM=HDRSC1
+        - listitem [ref=e32]:
+          - link "Web" [ref=e33] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=249e74a9ed8c2f0cae42175738e211735e6e0f251c522d3ce354194275d008faJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1L3NlYXJjaD9xPVNhdWNlRGVtbytBUEkrZG9jdW1lbnRhdGlvbitwdWJsaWMrQVBJJndlYnNjcD0xJkZPUk09SERSV1ND&ntb=1
+        - listitem [ref=e34]:
+          - link "AI Mode" [ref=e35] [cursor=pointer]:
+            - /url: /copilotsearch?q=SauceDemo+API+documentation+public+API&FORM=CSSCOP
+        - listitem [ref=e38]:
+          - link "Images" [ref=e39] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=95647cfbb7c3582c76e475db362b46145538f518469925ca19b8034ed18ebfd2JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1L2ltYWdlcy9zZWFyY2g_cT1TYXVjZURlbW8rQVBJK2RvY3VtZW50YXRpb24rcHVibGljK0FQSSZGT1JNPUhEUlNDMw&ntb=1
+        - listitem [ref=e40]:
+          - link "Videos" [ref=e41] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=a8d7edbf6419b9a837a53c487f618db456c53fa37f55e77d6c35eafb59dd5cdaJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1L3ZpZGVvcy9zZWFyY2g_cT1TYXVjZURlbW8rQVBJK2RvY3VtZW50YXRpb24rcHVibGljK0FQSSZGT1JNPUhEUlNDNA&ntb=1
+        - listitem [ref=e42]:
+          - link "Maps" [ref=e43] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=9f0a96769bc59ec99d9cfe33fb6a1d074501ef509d655360adc9547ee19f6706JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1L21hcHM_cT1TYXVjZURlbW8rQVBJK2RvY3VtZW50YXRpb24rcHVibGljK0FQSSZGT1JNPUhEUlNDNg&ntb=1
+        - listitem [ref=e44]:
+          - link "News" [ref=e45] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=e5bcdc8b8211a6fab41a9b229906503c13e5a3154a5bcaae51e9bd2aa37a3e0aJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1L25ld3Mvc2VhcmNoP3E9U2F1Y2VEZW1vK0FQSStkb2N1bWVudGF0aW9uK3B1YmxpYytBUEkmRk9STT1IRFJTQzc&ntb=1
+        - listitem [ref=e46]:
+          - link "Shopping" [ref=e47] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=c72ef17ab44af6ef57f2dc31d139a12976a1a587e31885fb3199a7f073d46d34JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1L3Nob3AvdG9waWNzP3E9U2F1Y2VEZW1vK0FQSStkb2N1bWVudGF0aW9uK3B1YmxpYytBUEkmRk9STT1TSE9QVEI&ntb=1
+        - listitem [ref=e48]:
+          - button [ref=e49] [cursor=pointer]
+  - main "Search Results" [ref=e54]:
+    - generic [ref=e56]:
+      - generic [aria-hidden] [ref=e57]:
+        - generic [ref=e58] [cursor=pointer]
+        - generic [ref=e61] [cursor=pointer]
+        - generic [ref=e64] [cursor=pointer]
+      - text: About 9,710 results
+    - generic [ref=e67]:
+      - list [ref=e68]:
+        - listitem [ref=e69]:
+          - list [ref=e70]:
+            - listitem [ref=e71]:
+              - generic [ref=e72]:
+                - generic [ref=e73] [cursor=pointer]:
+                  - generic [ref=e74]: Postman
+                  - generic [ref=e79]:
+                    - generic [ref=e80]: https://www.postman.com › api_development
+                    - button [ref=e82]:
+                      - img "About our ads" [ref=e84]
+                - heading [level=2] [ref=e85]:
+                  - link "Develop APIs With Confidence | Build APIs Together" [ref=e86] [cursor=pointer]:
+                    - /url: https://www.bing.com/aclk?ld=e83G8em5RQjmvRRaMprb6XpDVUCUzUq2-8KMi2LPFWYkw2Bx6JE8FYNw8RZjBYQ8GDSQkholZnh9lDyonSly-pe-un4xm-3VPg0jRtQwCBvnj6ZXMCB6xVF8Fehfx37I2UXn8kDhhC4zmqFT31JslKIm5sfSIa41TzUGd9OtuuS7YoVm0zYGkXm_qV2JYpn398fGl4HGFC5ep74kXlvAiNU9mZB80&u=aHR0cCUzYSUyZiUyZnd3dy5wb3N0bWFuLmNvbSUyZmxwJTJmZW50LWFwaS1kZXZlbG9wbWVudCUyZiUzZnV0bV9jYW1wYWlnbiUzZGJnX25hbV9zZWFyY2hfYm9mdV9nZW5lcmljX3RpZXIxJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NvbnRlbnQlM2RhcGlfZGV2ZWxvcG1lbnQlMjZ1dG1fdGVybSUzZGFwaSUyNTIwZGV2ZWxvcG1lbnQlMjZybV9naWQlM2QxMjI5MjU1MDcyNzk1NjUyJTI2cm1fY2klM2Q0ODU5ODEwMjAlMjZybV9rdyUzZGFwaSUyNTIwZGV2ZWxvcG1lbnQlMjZybV9tdCUzZHAlMjZybV9uJTNkbyUyNnJtX2NyJTNkNzY4Mjg1OTc0MjgwNTglMjZtc2Nsa2lkJTNkM2Q2MmFhOWIwZmUzMWUxZDg0MTJjMDQxNzlmNTkyOGI&rlid=3d62aa9b0fe31e1d8412c04179f5928b&ntb=1
+                - generic [ref=e88]:
+                  - generic [ref=e89]: Sponsored
+                  - text: Build, test, and secure APIs with Postman’s dev-first tools and sandbox environments. Collaborate, and test APIs seamlessly with Postman’s API development platform.
+                - generic [ref=e93]:
+                  - list [ref=e94]:
+                    - listitem [ref=e95]:
+                      - generic [ref=e96] [cursor=pointer]:
+                        - heading [level=3] [ref=e98]:
+                          - link "API Integrations" [ref=e99]:
+                            - /url: https://www.bing.com/aclk?ld=e8N43f2hiTN41edFd-1T4rKzVUCUxDo9rOXkIR1ELKe67Dk_q6ykV0Q4fgadx-hrEmPHUGTRXDInre_TRqYXUmbblQFX7eeY5zLDciZ3fVZdtY_Z0LQdXs1ovNKQlTmJZKpplbaoLltLOz0H-uvr701_rJAvxGQ_RERmsEz__8MC1MTwksHtebYjXS_XvlREVRBJCl1oPihRC8oJSlpPltCh2Z4LNDkVvdoFoToch2Q8KQPqR_&u=aHR0cHMlM2ElMmYlMmZ3d3cucG9zdG1hbi5jb20lMmZscCUyZmVudC1hcGktaW50ZWdyYXRpb25zJTJmJTNmdXRtX2NhbXBhaWduJTNkYmdfbmFtX3NlYXJjaF9ib2Z1X2dlbmVyaWNfdGllcjElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY29udGVudCUzZGFwaV9kZXZlbG9wbWVudCUyNnV0bV90ZXJtJTNkYXBpJTI1MjBkZXZlbG9wbWVudCUyNnJtX2dpZCUzZDEyMjkyNTUwNzI3OTU2NTIlMjZybV9jaSUzZDQ4NTk4MTAyMCUyNnJtX2t3JTNkYXBpJTI1MjBkZXZlbG9wbWVudCUyNnJtX210JTNkcCUyNnJtX24lM2RvJTI2cm1fY3IlM2Q3NjgyODU5NzQyODA1OCUyNm1zY2xraWQlM2Q3ZWViYmRmNjg1ODMxMDI3ZTAyNmQ3MmNmMzk1YTA2MQ&rlid=7eebbdf685831027e026d72cf395a061&ntb=1
+                        - generic [ref=e101]: Integrate every system, securely.
+                        - generic [ref=e102]: Build workflows at enterprise scale
+                  - list [ref=e103]:
+                    - listitem [ref=e104]:
+                      - generic [ref=e105] [cursor=pointer]:
+                        - heading [level=3] [ref=e107]:
+                          - link "API Testing" [ref=e108]:
+                            - /url: https://www.bing.com/aclk?ld=e8xF9kZnLI3_2f1XX01GrYmTVUCUyBK15ZJQtcQVieJYbykIQDKyAM6w-SSuPolqUy9rpezfkQvsDvu5LmLPh_PQU_tX9fgnrXgWdl2GNIrt9p0UXFsjZnyGgWxtHS2izNDq641D8mHBN-JlOWZkmm1ywnUXseMJmjSWBpwMMyfG0rm5ZYoYjWR6JBGc35koWRWteINgLL9h1JRX1ZR8WCuLh1D7rWwdoxw7RcUz5o2-VjrSsZ&u=aHR0cHMlM2ElMmYlMmZ3d3cucG9zdG1hbi5jb20lMmZ0ZW1wbGF0ZXMlMmYlM2ZtZXRhZGF0YV9jaWQlM2QxNTk0JTI2dXRtX2NhbXBhaWduJTNkYmdfbmFtX3NlYXJjaF9ib2Z1X2dlbmVyaWNfdGllcjElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY29udGVudCUzZGFwaV9kZXZlbG9wbWVudCUyNnV0bV90ZXJtJTNkYXBpJTI1MjBkZXZlbG9wbWVudCUyNnJtX2dpZCUzZDEyMjkyNTUwNzI3OTU2NTIlMjZybV9jaSUzZDQ4NTk4MTAyMCUyNnJtX2t3JTNkYXBpJTI1MjBkZXZlbG9wbWVudCUyNnJtX210JTNkcCUyNnJtX24lM2RvJTI2cm1fY3IlM2Q3NjgyODU5NzQyODA1OCUyNm1zY2xraWQlM2Q1NDRmNzc3N2ZkYzkxNjJjZDVmYjFkYWQ4YmRmMWE4Ng&rlid=544f7777fdc9162cd5fb1dad8bdf1a86&ntb=1
+                        - generic [ref=e110]: Build multistep integrations with
+                        - generic [ref=e111]: the Postman collection template
+        - listitem [ref=e112]:
+          - button "Hide" [ref=e117] [cursor=pointer]
+        - listitem [ref=e120]:
+          - generic [ref=e122]:
+            - region "Copilot Search" [ref=e123]:
+              - list [ref=e130]:
+                - listitem [ref=e131]:
+                  - generic [ref=e157]:
+                    - status
+                    - generic [ref=e158]:
+                      - button "Undo" [disabled] [ref=e160]
+                      - button "Redo" [disabled] [ref=e163]
+                      - button "Copy" [disabled] [ref=e166]
+                      - button "Export" [disabled] [ref=e169]
+                      - textbox "What would you like to adjust?" [disabled] [ref=e172]
+                      - button "Rewrite" [disabled] [ref=e174]
+                      - group [ref=e176]:
+                        - group [ref=e177]:
+                          - button "Testing Tools" [disabled] [ref=e179]
+                      - group [ref=e181]:
+                        - group [ref=e182]:
+                          - button "More Actions" [disabled] [ref=e184]
+                      - generic [ref=e188]:
+                        - generic [aria-hidden] [ref=e189]: Try more templates
+                        - combobox "Try more templates" [ref=e190] [cursor=pointer]
+            - generic [ref=e199]:
+              - button [aria-hidden] [ref=e200]
+              - button [aria-hidden] [ref=e203]
+              - list "Please use arrow keys to navigate" [ref=e208]:
+                - listitem [ref=e209]:
+                  - link "Sauce Labs alternatives comparison" [ref=e210] [cursor=pointer]:
+                    - /url: https://www.bing.com/ck/a?!&&p=9648ac3aaee0a5724ae04cfc6e6f3f809700b8d638742c6eb0c76c2b2a19a12fJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1L2NvcGlsb3RzZWFyY2g_cT1TYXVjZStMYWJzK2FsdGVybmF0aXZlcytjb21wYXJpc29uJmZvcm09Q1NTQU5T&ntb=1
+                - listitem [ref=e213]:
+                  - link "SauceDemo API testing guide" [ref=e214] [cursor=pointer]:
+                    - /url: https://www.bing.com/ck/a?!&&p=baa91fadc6d9dd9e3e5b8ba2cac4e6bc6efde9531831eb8362c8a76db25ecb7fJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1L2NvcGlsb3RzZWFyY2g_cT1TYXVjZURlbW8rQVBJK3Rlc3RpbmcrZ3VpZGUmZm9ybT1DU1NBTlM&ntb=1
+                - listitem [ref=e217]:
+                  - link "SauceDemo GitHub projects" [ref=e218] [cursor=pointer]:
+                    - /url: https://www.bing.com/ck/a?!&&p=792b2e2d29dbe72bceaf4f33b4caea59231f19d02fb7e830e4bb683207237966JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1L2NvcGlsb3RzZWFyY2g_cT1TYXVjZURlbW8rR2l0SHViK3Byb2plY3RzJmZvcm09Q1NTQU5T&ntb=1
+      - list [ref=e223]:
+        - listitem [ref=e224]:
+          - link "Sauce Labs Documentation" [ref=e226] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=5294e40feca158fdf5339169934e0f03ca38cfb4d15bb8db1cbadbf62f53e624JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kb2NzLnNhdWNlbGFicy5jb20vZGV2L2FwaS8&ntb=1
+            - generic [ref=e231]:
+              - generic [ref=e232]: Sauce Labs Documentation
+              - generic [ref=e233]: https://docs.saucelabs.com › dev › api
+          - heading [level=2] [ref=e236]:
+            - link "About the Sauce REST APIs | Sauce Labs Documentation" [ref=e237] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=5294e40feca158fdf5339169934e0f03ca38cfb4d15bb8db1cbadbf62f53e624JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kb2NzLnNhdWNlbGFicy5jb20vZGV2L2FwaS8&ntb=1
+          - generic [ref=e239]:
+            - link [ref=e240] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=5294e40feca158fdf5339169934e0f03ca38cfb4d15bb8db1cbadbf62f53e624JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kb2NzLnNhdWNlbGFicy5jb20vZGV2L2FwaS8&ntb=1
+              - strong [ref=e241]: Sauce
+              - text: Labs exposes a set of REST
+              - strong [ref=e242]: API
+              - text: endpoints that let you perform operations, manage accounts, and retrieve data programmatically so you can use the
+              - strong [ref=e243]: Sauce
+              - text: platf…
+            - generic [ref=e244]:
+              - generic [ref=e246]:
+                - link "What You'll need" [ref=e247] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=5294e40feca158fdf5339169934e0f03ca38cfb4d15bb8db1cbadbf62f53e624JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kb2NzLnNhdWNlbGFicy5jb20vZGV2L2FwaS8&ntb=1
+                - generic [ref=e249]:
+                  - heading "What You'll need" [level=2] [ref=e251]
+                  - paragraph [ref=e256]: 1. A Sauce Labs account (Log in or sign up for a free trial license)2. Your Sauce Labs Username and Access Key
+              - generic [ref=e258]:
+                - link "Accessing The Apis" [ref=e259] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=09d96848911a62f97501e4d8e46602ea751f7e7a427748a7a0391cc77941d1beJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kb2NzLnNhdWNlbGFicy5jb20vZGV2L2FwaS8jOn46dGV4dD1UaGUgU2F1Y2UgTGFicyBBUElzIA&ntb=1
+                - generic [ref=e261]:
+                  - heading "Accessing The Apis" [level=2] [ref=e263]
+                  - paragraph [ref=e268]: The Sauce Labs APIs are organized around REST. Each endpoint is structured as a resource-oriented URL that accepts inline query parameters and form-encoded request bodies, then returns JSON-encoded responses. Each endpoint is co…
+              - generic [ref=e270]:
+                - link "Status Codes" [ref=e271] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=11a75a1ac41521ef03eadbe5dfe4896b472def3d371dd0a5f34a25d4599c018dJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kb2NzLnNhdWNlbGFicy5jb20vZGV2L2FwaS8jOn46dGV4dD1TYXVjZSBMYWJzIHVzZXMgY29udg&ntb=1
+                - generic [ref=e273]:
+                  - heading "Status Codes" [level=2] [ref=e275]
+                  - paragraph [ref=e280]: Sauce Labs uses conventional HTTP response codes to indicate the success or failure of an API request. In general, codes in the 2xx range indicate success, while codes in the 4xx range indicate an error that caused the request to be denied. Co…
+              - generic [ref=e282]:
+                - link "Rate Limits" [ref=e283] [cursor=pointer]:
+                  - /url: https://www.bing.com/ck/a?!&&p=817c5ffe555cfc726e30a4326719ba88e415eed1be3c003871a61dc21b3de40fJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kb2NzLnNhdWNlbGFicy5jb20vZGV2L2FwaS8jOn46dGV4dD1UaGUgU2F1Y2UgTGFicyBSRVNUIA&ntb=1
+                - generic [ref=e285]:
+                  - heading "Rate Limits" [level=2] [ref=e287]
+                  - paragraph [ref=e292]: "The Sauce Labs REST API places rate limits on some endpoints in order to prevent over-utilization. For example: 1. Incoming authenticated API requests have rate limits imposed against the individual user accounts. 2. Incoming unauthenticated A…"
+        - listitem [ref=e293]:
+          - link "Sauce Labs Documentation" [ref=e295] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=449f83317aac5816114267abb46f78bd622fc9078153a48185a4f89460207d03JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kb2NzLnNhdWNlbGFicy5jb20vZGV2L2FwaS9wbGF0Zm9ybS8&ntb=1
+            - generic [ref=e300]:
+              - generic [ref=e301]: Sauce Labs Documentation
+              - generic [ref=e302]: https://docs.saucelabs.com › dev › api › platform
+          - heading [level=2] [ref=e305]:
+            - link "Sauce Platform API Endpoints | Sauce Labs Documentation" [ref=e306] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=449f83317aac5816114267abb46f78bd622fc9078153a48185a4f89460207d03JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kb2NzLnNhdWNlbGFicy5jb20vZGV2L2FwaS9wbGF0Zm9ybS8&ntb=1
+          - paragraph [ref=e308]: Apr 5, 2024 · The Platform APIs provide insight into the current state of the Sauce Labs platform in order to either validate your calls …
+        - listitem [ref=e309]:
+          - link "Postman" [ref=e311] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=71ad411435385cede41fa2d558e3e45ec8966041647301fdfcb1eb3ab4855b7aJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly93d3cucG9zdG1hbi5jb20vYmx1ZS1jYXBzdWxlLTQzNzQ4NS9zYXVjZWRlbW8vb3ZlcnZpZXc&ntb=1
+            - generic [ref=e316]:
+              - generic [ref=e317]: Postman
+              - generic [ref=e318]: https://www.postman.com › saucedemo
+          - heading [level=2] [ref=e321]:
+            - link "SauceDemo | Postman API Network" [ref=e322] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=71ad411435385cede41fa2d558e3e45ec8966041647301fdfcb1eb3ab4855b7aJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly93d3cucG9zdG1hbi5jb20vYmx1ZS1jYXBzdWxlLTQzNzQ4NS9zYXVjZWRlbW8vb3ZlcnZpZXc&ntb=1
+          - paragraph [ref=e324]: "Sep 7, 2026 · SauceDemo on the Postman API Network: This public workspace features ready-to-use APIs, Collections, and more …"
+        - listitem [ref=e325]:
+          - link "Sauce Labs Documentation" [ref=e327] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=1dad151c3a73756d87df749c178c8859b395afa6bf54573ea3c1e1925c941355JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kb2NzLnNhdWNlbGFicy5jb20v&ntb=1
+            - generic [ref=e332]:
+              - generic [ref=e333]: Sauce Labs Documentation
+              - generic [ref=e334]: https://docs.saucelabs.com
+          - heading [level=2] [ref=e337]:
+            - link "Sauce Labs Documentation, Developer Community & Resources" [ref=e338] [cursor=pointer]:
+              - /url: https://www.bing.com/ck/a?!&&p=1dad151c3a73756d87df749c178c8859b395afa6bf54573ea3c1e1925c941355JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kb2NzLnNhdWNlbGFicy5jb20v&ntb=1
+          - paragraph [ref=e340]: We provide the tools you need to get started quickly with Sauce Labs using your favorite framework. Need help? Check out our …
+        - listitem [ref=e341]:
+          - link "Sauce Labs Documentation" [ref=e343] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=b2ca6be6f238fce2e3436d61c0e7e79cc3c6c4abeaac25aed8ce707a2171e052JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kb2NzLnNhdWNlbGFicy5jb20vdGVzdGZhaXJ5L2FwaS1yZWZlcmVuY2UvcmVzdC1hcGkv&ntb=1
+            - generic [ref=e348]:
+              - generic [ref=e349]: Sauce Labs Documentation
+              - generic [ref=e350]: https://docs.saucelabs.com › testfairy › api-reference › rest-api
+          - heading "REST API | Sauce Labs Documentation" [level=2] [ref=e353]:
+            - link "REST API | Sauce Labs Documentation":
+              - /url: https://www.bing.com/ck/a?!&&p=b2ca6be6f238fce2e3436d61c0e7e79cc3c6c4abeaac25aed8ce707a2171e052JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kb2NzLnNhdWNlbGFicy5jb20vdGVzdGZhaXJ5L2FwaS1yZWZlcmVuY2UvcmVzdC1hcGkv&ntb=1
+          - paragraph [ref=e355]: In this document you can find the reference for the Sauce Labs Mobile App Distribution REST API. This API allows the developer to …
+        - listitem [ref=e356]:
+          - link "Sauce Labs Documentation" [ref=e358] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=b6c2892c76fdfd18501d803a5e4a5c6f2a2d21130aa0ca8559ac7803a76de5bcJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kb2NzLnNhdWNlbGFicy5jb20vb3ZlcnZpZXcv&ntb=1
+            - generic [ref=e363]:
+              - generic [ref=e364]: Sauce Labs Documentation
+              - generic [ref=e365]: https://docs.saucelabs.com › overview
+          - heading "Documentation - Sauce Labs" [level=2] [ref=e368]:
+            - link "Documentation - Sauce Labs":
+              - /url: https://www.bing.com/ck/a?!&&p=b6c2892c76fdfd18501d803a5e4a5c6f2a2d21130aa0ca8559ac7803a76de5bcJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kb2NzLnNhdWNlbGFicy5jb20vb3ZlcnZpZXcv&ntb=1
+          - paragraph [ref=e370]: Jul 22, 2026 · Browse the continuous integration and continuous delivery documentation to explore how to integrate Sauce Labs into …
+        - listitem [ref=e371]:
+          - link "deepwiki.com" [ref=e373] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=a671665a1f118a43937e1630599dfc44951879f641ab725a60c79a272580e694JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kZWVwd2lraS5jb20vemVrZXRlc3RzL3NhdWNlZGVtby1wbGF5d3JpZ2h0LWNsYXVkZS80LjMtYXBpLXRlc3QtZGF0YS1hbmQtaW50ZXJmYWNlcw&ntb=1
+            - generic [ref=e378]:
+              - generic [ref=e379]: deepwiki.com
+              - generic [ref=e380]: https://deepwiki.com › zeketests › saucedemo-playwright-claude
+          - heading "API Test Data & Interfaces | zeketests/saucedemo-playwright-claude ..." [level=2] [ref=e383]:
+            - link "API Test Data & Interfaces | zeketests/saucedemo-playwright-claude ...":
+              - /url: https://www.bing.com/ck/a?!&&p=a671665a1f118a43937e1630599dfc44951879f641ab725a60c79a272580e694JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9kZWVwd2lraS5jb20vemVrZXRlc3RzL3NhdWNlZGVtby1wbGF5d3JpZ2h0LWNsYXVkZS80LjMtYXBpLXRlc3QtZGF0YS1hbmQtaW50ZXJmYWNlcw&ntb=1
+          - paragraph [ref=e385]: May 3, 2026 · This page documents the centralized API configuration, route definitions, and TypeScript interfaces used for API …
+        - listitem [ref=e386]:
+          - link "Github" [ref=e388] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=514b2d0b556cab5de870b4a12a035f4e55f993cba70b793f94ee73659e6d0ca3JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9naXRodWIuY29tL3RvcGljcy9zYXVjZWRlbW8&ntb=1
+            - generic [ref=e393]:
+              - generic [ref=e394]: Github
+              - generic [ref=e395]: https://github.com › topics › saucedemo
+          - heading "saucedemo · GitHub Topics · GitHub" [level=2] [ref=e398]:
+            - link "saucedemo · GitHub Topics · GitHub":
+              - /url: https://www.bing.com/ck/a?!&&p=514b2d0b556cab5de870b4a12a035f4e55f993cba70b793f94ee73659e6d0ca3JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9naXRodWIuY29tL3RvcGljcy9zYXVjZWRlbW8&ntb=1
+          - paragraph [ref=e400]: Oct 20, 2025 · End-to-end test automation suite for SauceDemo built with JavaScript, Selenium WebDriver, Mocha, and visual …
+        - listitem [ref=e401]:
+          - link "Github" [ref=e403] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=e66f9dfa16f8c6bc764c9e8b2e3ba3c56a0f8c2c2be0223bbf1c1238e6389811JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9naXRodWIuY29tL2pwdHJwL3NhdWNlZGVtby1hcGktdGVzdGluZy1wb3N0bWFu&ntb=1
+            - generic [ref=e408]:
+              - generic [ref=e409]: Github
+              - generic [ref=e410]: https://github.com › jptrp › saucedemo-api-testing-postman
+          - heading "GitHub - jptrp/saucedemo-api-testing-postman" [level=2] [ref=e413]:
+            - link "GitHub - jptrp/saucedemo-api-testing-postman":
+              - /url: https://www.bing.com/ck/a?!&&p=e66f9dfa16f8c6bc764c9e8b2e3ba3c56a0f8c2c2be0223bbf1c1238e6389811JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9naXRodWIuY29tL2pwdHJwL3NhdWNlZGVtby1hcGktdGVzdGluZy1wb3N0bWFu&ntb=1
+          - paragraph [ref=e415]: A comprehensive API testing suite for SauceDemo e-commerce application using Postman collections, Newman CLI runner, and …
+        - listitem [ref=e416]:
+          - link "Github" [ref=e418] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=9342f3fba6ed027298dc71dafc89c45e1a5b3d48c3a5f710191ff48cd3c6a50aJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9naXRodWIuY29tL09ybGluODkvU2F1Y2VkZW1vLVFBLUF1dG9tYXRpb24&ntb=1
+            - generic [ref=e423]:
+              - generic [ref=e424]: Github
+              - generic [ref=e425]: https://github.com › Saucedemo-QA-Automation
+          - 'heading "GitHub - Orlin89/Saucedemo-QA-Automation: Automated UI and API …" [level=2] [ref=e428]':
+            - 'link "GitHub - Orlin89/Saucedemo-QA-Automation: Automated UI and API …"':
+              - /url: https://www.bing.com/ck/a?!&&p=9342f3fba6ed027298dc71dafc89c45e1a5b3d48c3a5f710191ff48cd3c6a50aJmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cHM6Ly9naXRodWIuY29tL09ybGluODkvU2F1Y2VkZW1vLVFBLUF1dG9tYXRpb24&ntb=1
+          - paragraph [ref=e430]: Automated UI and API testing for SauceDemo using .NET, Selenium, RestSharp, and Allure Reports with GitHub Actions CI pipeline. …
+        - listitem [ref=e431]:
+          - list [ref=e432]:
+            - listitem [ref=e433]:
+              - generic [ref=e434]:
+                - generic [ref=e435] [cursor=pointer]:
+                  - generic [ref=e436]: Postman
+                  - generic [ref=e441]:
+                    - generic [ref=e442]: https://www.postman.com › api_development
+                    - button [ref=e444]:
+                      - img "About our ads" [ref=e446]
+                - heading [level=2] [ref=e447]:
+                  - link "Develop APIs With Confidence | Build APIs Together" [ref=e448] [cursor=pointer]:
+                    - /url: https://www.bing.com/aclk?ld=e8PARFHldykFTAPFnzYr_9fDVUCUwCezwDtaI_A7bvVThZJavyKnV9UcL6r2dnY4sIuOczlu-WlwzX6DfF9TB9_UeNGgPiVhze0BQ-cd0RBagrij-_iIRNo56wprpSYjb41EexXCCchk5QZBqbMGLMM1HzZ03k5WvIW-fbYRSvVCz310p08HEzgiJ0rFmw2qTAyec8AFB9yq3iXpmERWXyJusCJ9c&u=aHR0cCUzYSUyZiUyZnd3dy5wb3N0bWFuLmNvbSUyZmxwJTJmZW50LWFwaS1kZXZlbG9wbWVudCUyZiUzZnV0bV9jYW1wYWlnbiUzZGJnX25hbV9zZWFyY2hfYm9mdV9nZW5lcmljX3RpZXIxJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NvbnRlbnQlM2RhcGlfZGV2ZWxvcG1lbnQlMjZ1dG1fdGVybSUzZGFwaSUyNTIwZGV2ZWxvcG1lbnQlMjZybV9naWQlM2QxMjI5MjU1MDcyNzk1NjUyJTI2cm1fY2klM2Q0ODU5ODEwMjAlMjZybV9rdyUzZGFwaSUyNTIwZGV2ZWxvcG1lbnQlMjZybV9tdCUzZHAlMjZybV9uJTNkbyUyNnJtX2NyJTNkNzY4Mjg1OTc0MjgwNTglMjZtc2Nsa2lkJTNkM2U0MmY5YzMxOWY4MTM1NDk5OWQ5MzE5NmZlZWEyZWY&rlid=3e42f9c319f81354999d93196feea2ef&ntb=1
+                - generic [ref=e449]:
+                  - generic [ref=e450]:
+                    - generic [ref=e451]: Sponsored
+                    - text: Collaborate, and test APIs seamlessly with Postman’s API development platform. An all-in-one API development environment for building and testing to speed up workflow.
+                  - generic [ref=e454]:
+                    - strong [ref=e455]: "Site visitors:"
+                    - text: Over 10K in the past month
+                  - paragraph [ref=e456]: Mock Servers · Secure Workspaces · Collaborate at Scale · Automated Governance
+                  - generic [ref=e457]: Service Features, Mock Servers, Schema-Driven Collections, Version Control and more
+                - list "Please use arrow keys to navigate" [ref=e464]:
+                  - listitem [ref=e465] [cursor=pointer]:
+                    - link "Upcoming Events" [ref=e467]:
+                      - /url: https://www.bing.com/aclk?ld=e8Q_fuQUl47izaYqqBu8QbVTVUCUxHhGX4JrO3TMkUkIZZy5SJZ9PHHKFVH2GpJ1GGw48B2TkCbx2SlFTTBrAYU5bFqLBuVsuO9h6Pz5iWFFt8Hvp3nzFEyjUTAkuhYPasaTVuRo5ehw-Deex0tmSxns_T9XZ9CjyXvwzAXTr1hJQ0DvBaAWWq0D6bCMLM2hFK-a_vQ4EPi8Hc-eyslib4nyGlaeSfG5jDLYsefoE69t3Bwq5D&u=aHR0cHMlM2ElMmYlMmZ3d3cucG9zdG1hbi5jb20lMmZldmVudHMlMmYlM2Z1dG1fY2FtcGFpZ24lM2RiZ19uYW1fc2VhcmNoX2JvZnVfZ2VuZXJpY190aWVyMSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jb250ZW50JTNkYXBpX2RldmVsb3BtZW50JTI2dXRtX3Rlcm0lM2RhcGklMjUyMGRldmVsb3BtZW50JTI2cm1fZ2lkJTNkMTIyOTI1NTA3Mjc5NTY1MiUyNnJtX2NpJTNkNDg1OTgxMDIwJTI2cm1fa3clM2RhcGklMjUyMGRldmVsb3BtZW50JTI2cm1fbXQlM2RwJTI2cm1fbiUzZG8lMjZybV9jciUzZDc2ODI4NTk3NDI4MDU4JTI2bXNjbGtpZCUzZDhiMTNkODk5MjU2YTE5MmMyOWE1YjI0MzUzN2M1MDc4&rlid=8b13d899256a192c29a5b243537c5078&ntb=1
+                  - listitem [ref=e469] [cursor=pointer]:
+                    - link "API Integrations" [ref=e471]:
+                      - /url: https://www.bing.com/aclk?ld=e8UirHO4yupNh0S8XsrZ1f4zVUCUzrkauG7xQlyvVS9IpYuXqICbnBM4EA0V5nPLVygBZF5thUlQ352CdcTfkHcIh-rKXIkbHsZVAUn1g0o65WURKkMBFhJRbGNJ-OynxOj-WrzCYP_8545UsfuYig5zbcTb58tsoReWk6pGib0b1SyV929XJK-cxSP87SmX2kX-Dk3qpx0zwVEsKn3QkQbl3JFZwO0yT2-qM9mVG3QBgA-BVn&u=aHR0cHMlM2ElMmYlMmZ3d3cucG9zdG1hbi5jb20lMmZscCUyZmVudC1hcGktaW50ZWdyYXRpb25zJTJmJTNmdXRtX2NhbXBhaWduJTNkYmdfbmFtX3NlYXJjaF9ib2Z1X2dlbmVyaWNfdGllcjElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY29udGVudCUzZGFwaV9kZXZlbG9wbWVudCUyNnV0bV90ZXJtJTNkYXBpJTI1MjBkZXZlbG9wbWVudCUyNnJtX2dpZCUzZDEyMjkyNTUwNzI3OTU2NTIlMjZybV9jaSUzZDQ4NTk4MTAyMCUyNnJtX2t3JTNkYXBpJTI1MjBkZXZlbG9wbWVudCUyNnJtX210JTNkcCUyNnJtX24lM2RvJTI2cm1fY3IlM2Q3NjgyODU5NzQyODA1OCUyNm1zY2xraWQlM2Q3YjYxMzIwYzlhNWIxNDRlZDZkNTU4ZDZlYzRkZmNjNA&rlid=7b61320c9a5b144ed6d558d6ec4dfcc4&ntb=1
+                  - listitem [ref=e473] [cursor=pointer]:
+                    - link "API Testing" [ref=e475]:
+                      - /url: https://www.bing.com/aclk?ld=e8cmdUOKqfExnKBuenB55uSzVUCUxO2dNh13K0C0FzY1G8bi6VSA_DmtkVRUSvPYGvwmTeAXIBIWAYHMdMU2UtVIV504IP_PBt8Fva-jxVlOHycEP5wLGd5jINgMi-GDsKG62q5fIWcoIivsNTU8PHcM15LkNxSn7390iwtNR-v0P8c3n3WpTnqrO8i4JQ8pl5XJmjbtM_8L3GDiBatQQaNWotsQgJI2ozAhvf3BLn2Va5gI5M&u=aHR0cHMlM2ElMmYlMmZ3d3cucG9zdG1hbi5jb20lMmZ0ZW1wbGF0ZXMlMmYlM2ZtZXRhZGF0YV9jaWQlM2QxNTk0JTI2dXRtX2NhbXBhaWduJTNkYmdfbmFtX3NlYXJjaF9ib2Z1X2dlbmVyaWNfdGllcjElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY29udGVudCUzZGFwaV9kZXZlbG9wbWVudCUyNnV0bV90ZXJtJTNkYXBpJTI1MjBkZXZlbG9wbWVudCUyNnJtX2dpZCUzZDEyMjkyNTUwNzI3OTU2NTIlMjZybV9jaSUzZDQ4NTk4MTAyMCUyNnJtX2t3JTNkYXBpJTI1MjBkZXZlbG9wbWVudCUyNnJtX210JTNkcCUyNnJtX24lM2RvJTI2cm1fY3IlM2Q3NjgyODU5NzQyODA1OCUyNm1zY2xraWQlM2QzMzc0OGQwYTY3MWIxNGQ5YmVlZWU3ZDAxMTBkNTQzZA&rlid=33748d0a671b14d9beeee7d0110d543d&ntb=1
+                  - listitem [ref=e477] [cursor=pointer]:
+                    - link "Trusted by Over 35M+ Devs" [ref=e479]:
+                      - /url: https://www.bing.com/aclk?ld=e8BgbT9iBjleXdI8MtrmIB-DVUCUyT5hvALWuE27Ft5ywKH_mrzriSn3rEH6_2CLmwdyrtHvFksrtJPtsdFWA7F4mpt_M6DUBe-glrTEFqM9VY4cXIZp5fgHaRqHV7G5tkH4M8iQBnK7RP0kgndQVUgNiUo_zyjXz9IbQ7ukgnLDrxUnEWnuKhpS6CSHgvXK8YUq9ry0GXrWO49YWgO8PPbX6HZpGKJHVR7L3dmOTvBv-0aKcS&u=aHR0cHMlM2ElMmYlMmZ3d3cucG9zdG1hbi5jb20lMmZscCUyZmVudC1hcGktYWklMmYlM2Z1dG1fY2FtcGFpZ24lM2RiZ19uYW1fc2VhcmNoX2JvZnVfZ2VuZXJpY190aWVyMSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jb250ZW50JTNkYXBpX2RldmVsb3BtZW50JTI2dXRtX3Rlcm0lM2RhcGklMjUyMGRldmVsb3BtZW50JTI2cm1fZ2lkJTNkMTIyOTI1NTA3Mjc5NTY1MiUyNnJtX2NpJTNkNDg1OTgxMDIwJTI2cm1fa3clM2RhcGklMjUyMGRldmVsb3BtZW50JTI2cm1fbXQlM2RwJTI2cm1fbiUzZG8lMjZybV9jciUzZDc2ODI4NTk3NDI4MDU4JTI2bXNjbGtpZCUzZGQ4ZTk4ZWZkYjI4YjEyMGE0MDdhZTQyN2M0OWQ4YjMz&rlid=d8e98efdb28b120a407ae427c49d8b33&ntb=1
+                  - listitem [ref=e481] [cursor=pointer]:
+                    - link "Streamline API Workflows" [ref=e483]:
+                      - /url: https://www.bing.com/aclk?ld=e8Jj6jhx-PourWIdBWUHSNsjVUCUxaOt9QAtYQpEtuWOmG9Z9TLz19d6LzzHduvfhS_TrY7lnXQjfXXvUZUW34yiq4eCMjKl7BcaCN-_aNnfXuoqMp1fT6fO1C54mwsXqycDYxVz5XqGloYwIAJ7JCIa_NHdfpP_QVflWGdZrQjEPebhZQA6-5SCFcxbHkVIL_Vque9rTKNPc4oUBMxFRZth9u7K4qGaHsjVtVYYfof8Hd8s5P&u=aHR0cHMlM2ElMmYlMmZ3d3cucG9zdG1hbi5jb20lMmZscCUyZmVudGVycHJpc2UtYXBpLW1hbmFnZW1lbnQlMmZidWlsZC10ZXN0LWRlcGxveSUyZiUzZnV0bV9jYW1wYWlnbiUzZGJnX25hbV9zZWFyY2hfYm9mdV9nZW5lcmljX3RpZXIxJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NvbnRlbnQlM2RhcGlfZGV2ZWxvcG1lbnQlMjZ1dG1fdGVybSUzZGFwaSUyNTIwZGV2ZWxvcG1lbnQlMjZybV9naWQlM2QxMjI5MjU1MDcyNzk1NjUyJTI2cm1fY2klM2Q0ODU5ODEwMjAlMjZybV9rdyUzZGFwaSUyNTIwZGV2ZWxvcG1lbnQlMjZybV9tdCUzZHAlMjZybV9uJTNkbyUyNnJtX2NyJTNkNzY4Mjg1OTc0MjgwNTglMjZtc2Nsa2lkJTNkMDRmYzJiZjY3MjBkMWQ1ZGFmOTc0MTJjMDQxYjdiM2I&rlid=04fc2bf6720d1d5daf97412c041b7b3b&ntb=1
+                  - listitem [ref=e485] [cursor=pointer]:
+                    - link "API-first design trends." [ref=e487]:
+                      - /url: https://www.bing.com/aclk?ld=e8-49unQC1oHvdX5_DaekeZDVUCUztP1ayQnhVsWSahU2aNsZ-R9TEuLq2loT-PYEa34rUaq83Mf5pDTrhAmAQjQaYY7ye5-7zvTYRQqmP2dDYKXthNHnfMmOtlvOHXH70nQY97e67UVHnybHuyGbIsWVtc-UhI-TWH0IqrK5C9wU1ZVMN6-tk2OWUUNS50cxzQcVm8rr4UlCIJkvAhF6_lRO98p7YDUPMD9a-3fB5spZQmJoc&u=aHR0cHMlM2ElMmYlMmZibG9nLnBvc3RtYW4uY29tJTJmd2hhdC1pcy1hcGktZmlyc3QtZGVzaWduJTJmJTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkZ3VpZGUtYXBpLWZpcnN0JTI2dXRtX3Rlcm0lM2RhdXN0cmFsaWEtYWxwaGEtc2thZy0xJTI2dXRtX2NvbnRlbnQlM2RzaXRlbGluay1leHRlbnNpb24tNyUyNnV0bV9jYW1wYWlnbiUzZGJnX25hbV9zZWFyY2hfYm9mdV9nZW5lcmljX3RpZXIxJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NvbnRlbnQlM2RhcGlfZGV2ZWxvcG1lbnQlMjZ1dG1fdGVybSUzZGFwaSUyNTIwZGV2ZWxvcG1lbnQlMjZybV9naWQlM2QxMjI5MjU1MDcyNzk1NjUyJTI2cm1fY2klM2Q0ODU5ODEwMjAlMjZybV9rdyUzZGFwaSUyNTIwZGV2ZWxvcG1lbnQlMjZybV9tdCUzZHAlMjZybV9uJTNkbyUyNnJtX2NyJTNkNzY4Mjg1OTc0MjgwNTglMjZtc2Nsa2lkJTNkYWE4Y2QwYzJkODIzMTQ2ZTBiMTdiYTE4YWUzNWM1NGM&rlid=aa8cd0c2d823146e0b17ba18ae35c54c&ntb=1
+                  - listitem [ref=e489] [cursor=pointer]:
+                    - link "Unified API Development" [ref=e491]:
+                      - /url: https://www.bing.com/aclk?ld=e8rj3h--R89eiMzqXJ3aKKDDVUCUwoTj44HE701g9fBH9kYhLgue7MmsXT5E42srfICSwFD-21zHsfp_z4IglkHlGceoQaC78_fomzpbniT-0ptaL8_wzmoVJMR-7N0ul2L2dgYaziu0oV8L5aBFPziPnvm46keC7w-9igjGMWjQaklk7h2NHH43JjH8mpnO_SRk5An429mv1PUh8PBSVfEYKSTYEBUV9oHDiZUGqSenBTg27k&u=aHR0cHMlM2ElMmYlMmZ3d3cucG9zdG1hbi5jb20lMmZscCUyZnNlY3VyZS1ieS1kZXNpZ24lMmYlM2Z1dG1fY2FtcGFpZ24lM2RiZ19uYW1fc2VhcmNoX2JvZnVfZ2VuZXJpY190aWVyMSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jb250ZW50JTNkYXBpX2RldmVsb3BtZW50JTI2dXRtX3Rlcm0lM2RhcGklMjUyMGRldmVsb3BtZW50JTI2cm1fZ2lkJTNkMTIyOTI1NTA3Mjc5NTY1MiUyNnJtX2NpJTNkNDg1OTgxMDIwJTI2cm1fa3clM2RhcGklMjUyMGRldmVsb3BtZW50JTI2cm1fbXQlM2RwJTI2cm1fbiUzZG8lMjZybV9jciUzZDc2ODI4NTk3NDI4MDU4JTI2bXNjbGtpZCUzZDRhOGIyMTc2ZjIwMDEzODdjMmZhNGJhYzg0MTZmODJi&rlid=4a8b2176f2001387c2fa4bac8416f82b&ntb=1
+                  - listitem [ref=e493] [cursor=pointer]:
+                    - link "Postman API Platform" [ref=e495]:
+                      - /url: https://www.bing.com/aclk?ld=e8zEuYEuduZV9RXLahAYpThjVUCUwQ9jaxvLIu7mgLQhCO2DxmwhXlj0Xnjzg1UGrI4mwsW8FuO1rDWfka_2yIugvDQKx68gIzL5untG_bvoQznqrZVbrk4LjZjXi1pgIEGOCKrmyeMVJmt1ZPF1evRQJsHNslDlo7Ha--xM8kfSbikyL189yNPostEsteCJGmvqBYs6nAjUhDowC27D4i39hU0768NeCW_6Oam4pZAnmYLVPe&u=aHR0cHMlM2ElMmYlMmZ3d3cucG9zdG1hbi5jb20lMmZwb3N0bWFuLWVudGVycHJpc2UlMmYlM2Z1dG1fY2FtcGFpZ24lM2RiZ19uYW1fc2VhcmNoX2JvZnVfZ2VuZXJpY190aWVyMSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jb250ZW50JTNkYXBpX2RldmVsb3BtZW50JTI2dXRtX3Rlcm0lM2RhcGklMjUyMGRldmVsb3BtZW50JTI2cm1fZ2lkJTNkMTIyOTI1NTA3Mjc5NTY1MiUyNnJtX2NpJTNkNDg1OTgxMDIwJTI2cm1fa3clM2RhcGklMjUyMGRldmVsb3BtZW50JTI2cm1fbXQlM2RwJTI2cm1fbiUzZG8lMjZybV9jciUzZDc2ODI4NTk3NDI4MDU4JTI2bXNjbGtpZCUzZDdlNjgxZGMzNzk3YjFkOTRkYTE1NzcxOTBmNmRhMDhk&rlid=7e681dc3797b1d94da1577190f6da08d&ntb=1
+        - listitem [ref=e497]:
+          - generic [ref=e499]:
+            - heading "People also ask" [level=2] [ref=e500]
+            - list [ref=e504]:
+              - listitem [ref=e505]:
+                - heading [level=3] [ref=e506]:
+                  - button "What are Sauce Labs platform APIs?" [ref=e507] [cursor=pointer]
+              - listitem [ref=e509]:
+                - heading [level=3] [ref=e510]:
+                  - button "What if I have any questions or suggestions about saucedemo?" [ref=e511] [cursor=pointer]
+              - listitem [ref=e513]:
+                - heading [level=3] [ref=e514]:
+                  - button "What is a selenium framework for saucedemo?" [ref=e515] [cursor=pointer]
+              - listitem [ref=e517]:
+                - heading [level=3] [ref=e518]:
+                  - button "Are Sauce Labs APIs REST based?" [ref=e519] [cursor=pointer]
+        - listitem [ref=e522]:
+          - link "Some results have been removed" [ref=e524] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=a74d143800b4cb2d9300392917bf355bb6f8fb483964a18ddbfdd42492621285JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSUQ9NjE3MzUw&ntb=1
+        - listitem [ref=e525]:
+          - navigation "More results for SauceDemo API documentation public API":
+            - list:
+              - listitem [ref=e526]:
+                - generic "Page 1" [ref=e527]: "1"
+              - listitem [ref=e528]:
+                - link "Page 2" [ref=e529] [cursor=pointer]:
+                  - /url: /search?q=SauceDemo+API+documentation+public+API&FPIG=F78C1E9D5B8845FBB5A49BC8B65DEC37&first=11&FORM=PERE
+                  - text: "2"
+              - listitem [ref=e530]:
+                - link "Page 3" [ref=e531] [cursor=pointer]:
+                  - /url: /search?q=SauceDemo+API+documentation+public+API&FPIG=F78C1E9D5B8845FBB5A49BC8B65DEC37&first=21&FORM=PERE1
+                  - text: "3"
+              - listitem [ref=e532]:
+                - link "Next page" [ref=e533] [cursor=pointer]:
+                  - /url: /search?q=SauceDemo+API+documentation+public+API&FPIG=F78C1E9D5B8845FBB5A49BC8B65DEC37&first=11&FORM=PORE
+      - complementary "Additional Results"
+  - contentinfo [ref=e534]:
+    - generic [ref=e535]:
+      - list:
+        - listitem [ref=e536]:
+          - link "Privacy" [ref=e537] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=abbd8d499422e5f2fa465acd703771cffb5c82bd0b1b5048691cd4c227d7bdd3JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSWQ9NTIxODM5&ntb=1
+        - listitem [ref=e538]:
+          - link "Terms" [ref=e539] [cursor=pointer]:
+            - /url: https://www.bing.com/ck/a?!&&p=60ae9ab3c43a5f0c6ac484fdd19269178a6cfeca3f79b8b9d51adb048c09b1a4JmltdHM9MTc5MjYyNzIwMA&ptn=3&ver=2&hsh=4&fclid=3ab98313-fc97-6a47-3d7f-94e9fd756bc8&u=a1aHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSUQ9MjQ2MzM4&ntb=1
